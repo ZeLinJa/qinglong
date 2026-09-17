@@ -4,7 +4,7 @@
  * 青龙变量：
  * YYB_GO_ID        多账号格式：ID1#备注1&ID2#备注2
  * YYB_GO_URL       例如：http://192.168.x.x:8000
- * PUSH_PLUS_TOKEN  PushPlus 的 token
+ * PUSHPLUS_TOKEN   PushPlus 的 token
  * 
  * Author:Lia漫步者
  * Date：2026.09.17
