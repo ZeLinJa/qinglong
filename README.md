@@ -1,20 +1,23 @@
 # 青龙面板脚本
 
 ## YYB-GO
+
 ### 环境变量：
 
  YYB_GO_URL       例如：http://192.168.x.x:8000
+ 
  YYB_GO_ID        多账号格式：ID1#备注1&ID2#备注2
- PUSHPLUS_TOKEN   PushPlus 的
+ 
+ PUSHPLUS_TOKEN   PushPlus 的 Token
 
-【免责声明】
+# 【免责声明】
 
 1. 本项目/脚本仅供编程学习、技术研究与交流使用，严禁用于任何商业用途或非法目的。
 2. 使用者在部署、运行本脚本时，必须遵守所在平台的使用规范及目标网站的服务条款。因违规使用导致的一切账号封禁、权益受损等后果，均由使用者自行承担，本项目作者不承担任何责任。
 3. 本脚本涉及的接口与业务逻辑仅作 Node.js 自动化与网络请求的技术探讨，不代表对任何商业平台的破坏或攻击意图。
 4. 如果您认为本项目侵犯了您的权益或存在合规风险，请及时联系邮箱zenleon@foxmail.com，本人将在第一时间进行处理。
 
-【Disclaimer】
+# 【Disclaimer】
 
 1. This script is intended solely for educational purposes, programming practice, and technical research. Any commercial use or usage for illegal activities is strictly prohibited.
 2. Users are solely responsible for any consequences arising from the deployment or execution of this script, including but not limited to account restrictions, bans, or loss of benefits. The author assumes no liability for any damages or losses incurred.
