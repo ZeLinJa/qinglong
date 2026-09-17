@@ -1,10 +1,10 @@
-##小青龙
+# 青龙面板脚本
 
-#YYB-GO
-环境变量：
+## YYB-GO
+### 环境变量：
 
-YYB_GO_URL       例如：http://192.168.x.x:8000
-YYB_GO_ID        多账号格式：ID1#备注1&ID2#备注2
+ YYB_GO_URL       例如：http://192.168.x.x:8000
+ YYB_GO_ID        多账号格式：ID1#备注1&ID2#备注2
  PUSHPLUS_TOKEN   PushPlus 的
 
 【免责声明】
