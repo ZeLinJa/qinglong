@@ -10,7 +10,2144 @@
  * Date：2026.09.17
  */
 
-var _0xd1d1bf=(467349^467349)+(215618^215621);const crypto=require("\u0063\u0072\u0079\u0070\u0074\u006F");_0xd1d1bf=(937164^937163)+(207440^207441);const fs=require("\u0066\u0073");var _0xbbb9bg=(666837^666837)+(238340^238342);const path=require("\u0070\u0061\u0074\u0068");_0xbbb9bg=(628583^628591)+(447599^447591);var _0x1b29a=(266961^266969)+(376752^376757);const http=require("\u0068\u0074\u0074\u0070");_0x1b29a=(463214^463211)+(275292^275291);var _0xabf=(776274^776275)+(154370^154370);const https=require("\u0068\u0074\u0074\u0070\u0073");_0xabf=264689^264690;var _0x279a1b=(241980^241979)+(921796^921804);const YYB_GO_ID=(process['\u0065\u006E\u0076']['\u0059\u0059\u0042\u005F\u0047\u004F\u005F\u0049\u0044']||"")['\u0074\u0072\u0069\u006D']();_0x279a1b=(705791^705788)+(862550^862545);const YYB_GO_URL=(process['\u0065\u006E\u0076']['\u0059\u0059\u0042\u005F\u0047\u004F\u005F\u0055\u0052\u004C']||"")['\u0074\u0072\u0069\u006D']()['\u0072\u0065\u0070\u006C\u0061\u0063\u0065'](new RegExp("$/\\".split("").reverse().join(""),""),"");const PUSHPLUS_TOKEN=(process['\u0065\u006E\u0076']['\u0050\u0055\u0053\u0048\u0050\u004C\u0055\u0053\u005F\u0054\u004F\u004B\u0045\u004E']||"")['\u0074\u0072\u0069\u006D']();const MINI_APP_ID="fb94edab074212a2xw".split("").reverse().join("");const AES_KEY_HEX="\u0030\u0066\u0039\u0066\u0038\u0062\u0031\u0065\u0037\u0039\u0031\u0066\u0037\u0035\u0034\u0064\u0032\u0064\u0065\u0064\u0039\u0064\u0066\u0062\u0033\u0038\u0061\u0034\u0062\u0036\u0032\u0038";var _0x6dd71b;const AES_IV_HEX="\u0033\u0031\u0033\u0032\u0033\u0033\u0033\u0034\u0033\u0035\u0033\u0036\u0033\u0037\u0033\u0038\u0033\u0039\u0033\u0030\u0033\u0031\u0033\u0032\u0033\u0033\u0033\u0034\u0033\u0035\u0033\u0035";_0x6dd71b='\u0065\u0067\u006E\u006F\u0061\u0063';const SIGN_PREFIX="#sae55xs76!fd4%t&232eff#0.1sserpxeerots#".split("").reverse().join("");var _0xe65abd;const LOGIN_URL="\u0068\u0074\u0074\u0070\u0073\u003A\u002F\u002F\u0063\u0064\u006E\u002D\u0073\u0074\u006F\u0072\u0065\u0065\u0078\u0070\u0072\u0065\u0073\u0073\u002E\u006D\u0069\u006E\u0069\u0073\u006F\u002E\u0063\u006F\u006D\u002F\u0077\u0065\u0063\u0068\u0061\u0074\u002F\u006C\u006F\u0067\u0069\u006E";_0xe65abd=280490^280493;const API_HOST="\u0068\u0074\u0074\u0070\u0073\u003A\u002F\u002F\u0061\u0070\u0069\u002D\u0073\u0061\u0061\u0073\u002E\u006D\u0069\u006E\u0069\u0073\u006F\u002E\u0063\u006F\u006D";var _0x2574be=(480840^480841)+(126067^126074);const MULTI_API_HOST="moc.osinim.sdnarbitlum.ipa//:sptth".split("").reverse().join("");_0x2574be=(498023^498031)+(529098^529103);var _0x3bf;const CDN_HOST="\u0068\u0074\u0074\u0070\u0073\u003A\u002F\u002F\u0063\u0064\u006E\u002D\u0073\u0074\u006F\u0072\u0065\u0065\u0078\u0070\u0072\u0065\u0073\u0073\u002E\u006D\u0069\u006E\u0069\u0073\u006F\u002E\u0063\u006F\u006D";_0x3bf=(290463^290455)+(958212^958211);var _0xc87ec=(997556^997564)+(791447^791445);const PUSHPLUS_URL="dnes/sulp.sulphsup.www//:sptth".split("").reverse().join("");_0xc87ec=(708277^708284)+(370827^370829);const DEFAULT_STORE_ID="\u005A\u0036\u0058\u0056";const ACTIVITY_ID=775778^775792;var _0x9de=(607960^607953)+(233235^233233);const TOKEN_CACHE_FILE=path['\u006A\u006F\u0069\u006E'](__dirname,"\u0059\u0059\u0042\u005F\u0047\u004F\u005F\u0049\u0044\u005F\u0074\u006F\u006B\u0065\u006E\u005F\u0063\u0061\u0063\u0068\u0065\u002E\u006A\u0073\u006F\u006E");_0x9de="jlhkic".split("").reverse().join("");const UA="\u004D\u006F\u007A\u0069\u006C\u006C\u0061\u002F\u0035\u002E\u0030\u0020\u0028\u004C\u0069\u006E\u0075\u0078\u003B\u0020\u0041\u006E\u0064\u0072\u006F\u0069\u0064\u0020\u0031\u0036\u0029\u0020"+"\u0041\u0070\u0070\u006C\u0065\u0057\u0065\u0062\u004B\u0069\u0074\u002F\u0035\u0033\u0037\u002E\u0033\u0036\u0020\u0028\u004B\u0048\u0054\u004D\u004C\u002C\u0020\u006C\u0069\u006B\u0065\u0020\u0047\u0065\u0063\u006B\u006F\u0029\u0020"+"\u0056\u0065\u0072\u0073\u0069\u006F\u006E\u002F\u0034\u002E\u0030\u0020\u0043\u0068\u0072\u006F\u006D\u0065\u002F\u0031\u0035\u0030\u002E\u0030\u002E\u0037\u0038\u0037\u0031\u002E\u0031\u0038\u0039\u0020\u004D\u006F\u0062\u0069\u006C\u0065\u0020\u0053\u0061\u0066\u0061\u0072\u0069\u002F\u0035\u0033\u0037\u002E\u0033\u0036\u0020"+"diordna/vnEmargorPiniM 67.0.8/regnesseMorciM".split("").reverse().join("");const TASK_REFERER=`https://servicewechat.com/${MINI_APP_ID}/1142/page-frame.html`;const SIGN_PAGE="\u0025\u0045\u0036\u0025\u0042\u0044\u0025\u0041\u0045\u0025\u0045\u0037\u0025\u0038\u0045\u0025\u0041\u0039\u0025\u0045\u0037\u0025\u0041\u0044\u0025\u0042\u0045\u0025\u0045\u0035\u0025\u0038\u0038\u0025\u0042\u0030\u0025\u0045\u0039\u0025\u0041\u0031\u0025\u0042\u0035\u0025\u0045\u0039\u0025\u0039\u0044\u0025\u0041\u0032";const LANDING_PAGE="5B%1A%9E%0B%C9%5E%DB%09%8E%".split("").reverse().join("");const finalNotifyList=[];function log(text=""){const _0x9df8c=new Date();const _0xad_0xe79=_0x9df8c['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0054\u0069\u006D\u0065\u0053\u0074\u0072\u0069\u006E\u0067']("NC-hz".split("").reverse().join(""),{'\u0068\u006F\u0075\u0072\u0031\u0032':false});console['\u006C\u006F\u0067'](`[${_0xad_0xe79}] ${text}`);}function sleep(ms){return new Promise(resolve=>setTimeout(resolve,ms));}function short(v,n=622730^623014,_0xd1c4c){_0xd1c4c="";try{_0xd1c4c=typeof v==="\u0073\u0074\u0072\u0069\u006E\u0067"?v:JSON['\u0073\u0074\u0072\u0069\u006E\u0067\u0069\u0066\u0079'](v);}catch(_){_0xd1c4c=String(v);}if(!_0xd1c4c){return"";}return _0xd1c4c['\u006C\u0065\u006E\u0067\u0074\u0068']>n?_0xd1c4c['\u0073\u006C\u0069\u0063\u0065'](164050^164050,n)+"\u002E\u002E\u002E":_0xd1c4c;}function parseAccount(raw=""){const _0xc6738b=String(raw)['\u0073\u0070\u006C\u0069\u0074']("\u0023");return{'\u0072\u0065\u0066':(_0xc6738b[964983^964983]||"")['\u0074\u0072\u0069\u006D'](),'\u0072\u0065\u006D\u0061\u0072\u006B':(_0xc6738b['\u0073\u006C\u0069\u0063\u0065'](373572^373573)['\u006A\u006F\u0069\u006E']("\u0023")||"")['\u0074\u0072\u0069\u006D']()};}function getAccountList(){if(!YYB_GO_ID){return[];}return YYB_GO_ID['\u0073\u0070\u006C\u0069\u0074']("\u0026")['\u006D\u0061\u0070'](item=>item['\u0074\u0072\u0069\u006D']())['\u0066\u0069\u006C\u0074\u0065\u0072'](Boolean);}function md5Upper(str){return crypto['\u0063\u0072\u0065\u0061\u0074\u0065\u0048\u0061\u0073\u0068']("5dm".split("").reverse().join(""))['\u0075\u0070\u0064\u0061\u0074\u0065'](String(str),"\u0075\u0074\u0066\u0038")['\u0064\u0069\u0067\u0065\u0073\u0074']("xeh".split("").reverse().join(""))['\u0074\u006F\u0055\u0070\u0070\u0065\u0072\u0043\u0061\u0073\u0065']();}function aesEncryptHex(plainText){const _0xb86g5g=Buffer['\u0066\u0072\u006F\u006D'](AES_KEY_HEX,"\u0068\u0065\u0078");const _0xf651b=Buffer['\u0066\u0072\u006F\u006D'](AES_IV_HEX,"xeh".split("").reverse().join(""));const _0xd5f9ab=crypto['\u0063\u0072\u0065\u0061\u0074\u0065\u0043\u0069\u0070\u0068\u0065\u0072\u0069\u0076']("cbc-821-sea".split("").reverse().join(""),_0xb86g5g,_0xf651b);return Buffer['\u0063\u006F\u006E\u0063\u0061\u0074']([_0xd5f9ab['\u0075\u0070\u0064\u0061\u0074\u0065'](Buffer['\u0066\u0072\u006F\u006D'](plainText,"\u0075\u0074\u0066\u0038")),_0xd5f9ab['\u0066\u0069\u006E\u0061\u006C']()])['\u0074\u006F\u0053\u0074\u0072\u0069\u006E\u0067']("xeh".split("").reverse().join(""));}function genLoginNonce(_0xdfb1e,_0x1c6f3d){_0xdfb1e="\u0031\u0032\u0033\u0034\u0035\u0036\u0037\u0038\u0039\u0030\u0071\u0077\u0065\u0072\u0074\u0079\u0075\u0069\u006F\u0070\u0061\u0073\u0064\u0066\u0067\u0068\u006A\u006B\u006C\u007A\u0078\u0063";_0x1c6f3d="";for(let i=233405^233405;i<(330875^330843);i++){_0x1c6f3d+=_0xdfb1e['\u0063\u0068\u0061\u0072\u0041\u0074'](Math['\u0066\u006C\u006F\u006F\u0072'](Math['\u0072\u0061\u006E\u0064\u006F\u006D']()*_0xdfb1e['\u006C\u0065\u006E\u0067\u0074\u0068']));}return _0x1c6f3d;}function genNonce(_0x7ef1d,_0xc5245c){var _0x33ac3e;_0x7ef1d="\u0061\u0062\u0063\u0064\u0065\u0066\u0067\u0068\u0069\u006A\u006B\u006C\u006D\u006E\u006F\u0070\u0071\u0072\u0073\u0074\u0075\u0076\u0077\u0078\u0079\u007A\u0030\u0031\u0032\u0033\u0034\u0035\u0036\u0037\u0038\u0039";_0x33ac3e='\u006E\u006D\u006E\u0071\u0068\u0064';var _0x6561ad;_0xc5245c="";_0x6561ad=(890259^890258)+(691233^691239);for(let i=569990^569990;i<(710693^710661);i++){_0xc5245c+=_0x7ef1d['\u0063\u0068\u0061\u0072\u0041\u0074'](Math['\u0066\u006C\u006F\u006F\u0072'](Math['\u0072\u0061\u006E\u0064\u006F\u006D']()*_0x7ef1d['\u006C\u0065\u006E\u0067\u0074\u0068']));}return _0xc5245c;}function bizSignature(time,nonce){return md5Upper(`${SIGN_PREFIX}${time}#${nonce}`);}function httpRequest({"method":method="TEG".split("").reverse().join(""),'\u0075\u0072\u006C':url,'\u0068\u0065\u0061\u0064\u0065\u0072\u0073':headers={},"body":body=undefined,'\u0074\u0069\u006D\u0065\u006F\u0075\u0074':timeout=847955^835187}){return new Promise((resolve,reject)=>{let _0x13bgg;try{_0x13bgg=new URL(url);}catch(e){reject(new Error(`URL错误：${url}`));return;}const _0xae0ae=_0x13bgg['\u0070\u0072\u006F\u0074\u006F\u0063\u006F\u006C']==="\u0068\u0074\u0074\u0070\u0073\u003A"?https:http;var _0x8geaac;let _0xacf=body;_0x8geaac="loqlme".split("").reverse().join("");if(_0xacf!==undefined&&_0xacf!==null&&typeof _0xacf!=="\u0073\u0074\u0072\u0069\u006E\u0067"&&!Buffer['\u0069\u0073\u0042\u0075\u0066\u0066\u0065\u0072'](_0xacf)){_0xacf=JSON['\u0073\u0074\u0072\u0069\u006E\u0067\u0069\u0066\u0079'](_0xacf);}const _0x6c39f={...headers};if(_0xacf!==undefined&&_0xacf!==null){if(!_0x6c39f["\u0043\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u0054\u0079\u0070\u0065"]&&!_0x6c39f["\u0063\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u0074\u0079\u0070\u0065"]){_0x6c39f["Content-Type"]="nosj/noitacilppa".split("").reverse().join("");}_0x6c39f["\u0043\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u004C\u0065\u006E\u0067\u0074\u0068"]=Buffer['\u0062\u0079\u0074\u0065\u004C\u0065\u006E\u0067\u0074\u0068'](_0xacf);}var _0xbe_0x597=(875494^875489)+(970208^970213);const _0xe7f={'\u0070\u0072\u006F\u0074\u006F\u0063\u006F\u006C':_0x13bgg['\u0070\u0072\u006F\u0074\u006F\u0063\u006F\u006C'],'\u0068\u006F\u0073\u0074\u006E\u0061\u006D\u0065':_0x13bgg['\u0068\u006F\u0073\u0074\u006E\u0061\u006D\u0065'],"port":_0x13bgg['\u0070\u006F\u0072\u0074']||(_0x13bgg['\u0070\u0072\u006F\u0074\u006F\u0063\u006F\u006C']===":sptth".split("").reverse().join("")?521814^522221:822554^822602),"path":_0x13bgg['\u0070\u0061\u0074\u0068\u006E\u0061\u006D\u0065']+_0x13bgg['\u0073\u0065\u0061\u0072\u0063\u0068'],"method":method,"headers":_0x6c39f};_0xbe_0x597=(772319^772315)+(580205^580201);const _0xa5126f=_0xae0ae['\u0072\u0065\u0071\u0075\u0065\u0073\u0074'](_0xe7f,res=>{var _0x7cfab;const _0x3_0x89a=[];_0x7cfab=710495^710487;res['\u006F\u006E']("\u0064\u0061\u0074\u0061",chunk=>{_0x3_0x89a['\u0070\u0075\u0073\u0068'](chunk);});res['\u006F\u006E']("dne".split("").reverse().join(""),()=>{var _0x_0x8be=(732956^732959)+(481030^481039);const _0x47f52a=Buffer['\u0063\u006F\u006E\u0063\u0061\u0074'](_0x3_0x89a);_0x_0x8be="jjigii".split("").reverse().join("");const _0x22ea=_0x47f52a['\u0074\u006F\u0053\u0074\u0072\u0069\u006E\u0067']("8ftu".split("").reverse().join(""));let _0x4748e=_0x22ea;try{_0x4748e=_0x22ea?JSON['\u0070\u0061\u0072\u0073\u0065'](_0x22ea):{};}catch(_){}resolve({'\u0073\u0074\u0061\u0074\u0075\u0073\u0043\u006F\u0064\u0065':res['\u0073\u0074\u0061\u0074\u0075\u0073\u0043\u006F\u0064\u0065'],"headers":res['\u0068\u0065\u0061\u0064\u0065\u0072\u0073'],"data":_0x4748e});});});_0xa5126f['\u0073\u0065\u0074\u0054\u0069\u006D\u0065\u006F\u0075\u0074'](timeout,()=>{_0xa5126f['\u0064\u0065\u0073\u0074\u0072\u006F\u0079'](new Error(`请求超时 ${timeout}ms`));});_0xa5126f['\u006F\u006E']("rorre".split("").reverse().join(""),reject);if(_0xacf!==undefined&&_0xacf!==null){_0xa5126f['\u0077\u0072\u0069\u0074\u0065'](_0xacf);}_0xa5126f['\u0065\u006E\u0064']();});}function readCache(){try{if(!fs['\u0065\u0078\u0069\u0073\u0074\u0073\u0053\u0079\u006E\u0063'](TOKEN_CACHE_FILE)){return{};}var _0xb_0x566=(380764^380767)+(931225^931224);const _0x3a_0x4c0=fs['\u0072\u0065\u0061\u0064\u0046\u0069\u006C\u0065\u0053\u0079\u006E\u0063'](TOKEN_CACHE_FILE,"\u0075\u0074\u0066\u0038");_0xb_0x566=581185^581188;if(!_0x3a_0x4c0['\u0074\u0072\u0069\u006D']()){return{};}return JSON['\u0070\u0061\u0072\u0073\u0065'](_0x3a_0x4c0)||{};}catch(e){log(`⚠️ CK缓存读取失败：${e['\u006D\u0065\u0073\u0073\u0061\u0067\u0065']||e}`);return{};}}function writeCache(cache){try{fs['\u0077\u0072\u0069\u0074\u0065\u0046\u0069\u006C\u0065\u0053\u0079\u006E\u0063'](TOKEN_CACHE_FILE,JSON['\u0073\u0074\u0072\u0069\u006E\u0067\u0069\u0066\u0079'](cache,null,728255^728253),"8ftu".split("").reverse().join(""));return!![];}catch(e){log(`❌ CK缓存写入失败：${e['\u006D\u0065\u0073\u0073\u0061\u0067\u0065']||e}`);return false;}}async function pushPlusSend(content){if(!PUSHPLUS_TOKEN){log("\u26A0\uFE0F\u0020\u672A\u914D\u7F6E\u0050\u0055\u0053\u0048\u0050\u004C\u0055\u0053\u005F\u0054\u004F\u004B\u0045\u004E\uFF0C\u8DF3\u8FC7\u901A\u77E5");return;}if(!content||!String(content)['\u0074\u0072\u0069\u006D']()){return;}try{const _0x586e=await httpRequest({'\u006D\u0065\u0074\u0068\u006F\u0064':"\u0050\u004F\u0053\u0054","url":PUSHPLUS_URL,"headers":{"Content-Type":"\u0061\u0070\u0070\u006C\u0069\u0063\u0061\u0074\u0069\u006F\u006E\u002F\u006A\u0073\u006F\u006E"},"body":{'\u0074\u006F\u006B\u0065\u006E':PUSHPLUS_TOKEN,"title":"\u540D\u521B\u4F18\u54C1\u4EFB\u52A1\u901A\u77E5",'\u0063\u006F\u006E\u0074\u0065\u006E\u0074':String(content),"template":"txt",'\u0063\u0068\u0061\u006E\u006E\u0065\u006C':"\u0077\u0065\u0063\u0068\u0061\u0074"}});const _0xb8d9e=_0x586e['\u0064\u0061\u0074\u0061']||{};if(Number(_0xb8d9e['\u0063\u006F\u0064\u0065'])===(214411^214339)){log("\u2705\u0020\u0050\u0075\u0073\u0068\u0050\u006C\u0075\u0073\u901A\u77E5\u53D1\u9001\u6210\u529F");return;}log(`❌ PushPlus发送失败：${_0xb8d9e['\u006D\u0073\u0067']||_0xb8d9e['\u006D\u0065\u0073\u0073\u0061\u0067\u0065']||short(_0xb8d9e)}`);}catch(e){log(`❌ PushPlus请求异常：${e['\u006D\u0065\u0073\u0073\u0061\u0067\u0065']||e}`);}}async function getYybGoCode(accountRef){if(!YYB_GO_URL){throw new Error("LRU_OG_BYY\u7F6E\u914D\u672A".split("").reverse().join(""));}var _0x61465f;const _0x1cf82e=await httpRequest({'\u006D\u0065\u0074\u0068\u006F\u0064':"\u0050\u004F\u0053\u0054","url":`${YYB_GO_URL}/wxapp/getCode`,"headers":{"Content-Type":"application/json"},'\u0062\u006F\u0064\u0079':{'\u0061\u0070\u0070\u005F\u0069\u0064':MINI_APP_ID,"ref":accountRef},"timeout":15000});_0x61465f=(553992^553998)+(286040^286040);var _0x52ec=(232907^232910)+(234552^234555);const _0x62261f=_0x1cf82e['\u0064\u0061\u0074\u0061']||{};_0x52ec=722426^722426;if(_0x62261f['\u0063\u006F\u0064\u0065']!==(858241^858241)&&_0x62261f['\u0063\u006F\u0064\u0065']!=="\u0030"&&_0x62261f['\u0063\u006F\u0064\u0065']!==null&&_0x62261f['\u0063\u006F\u0064\u0065']!==undefined){if(Number(_0x62261f['\u0063\u006F\u0064\u0065'])===(983725^983899)){throw new Error(`SKIP_ACCOUNT:${_0x62261f['\u006D\u0073\u0067']||"\u8D26\u53F7\u51ED\u8BC1\u5931\u6548"}`);}throw new Error(`YYB-GO获取code失败：${_0x62261f['\u006D\u0073\u0067']||short(_0x62261f)}`);}const _0x5d6c=_0x62261f['\u0064\u0061\u0074\u0061']||{};var _0xd448df;const _0xb19gc=_0x5d6c['\u0072\u0065\u0073\u0075\u006C\u0074']||{};_0xd448df=352944^352949;var _0xb197c;let _0x167d7b=typeof _0xb19gc==="tcejbo".split("").reverse().join("")&&_0xb19gc!==null?_0xb19gc['\u0063\u006F\u0064\u0065']:_0xb19gc;_0xb197c=245264^245269;_0x167d7b=_0x167d7b||_0x5d6c['\u0063\u006F\u0064\u0065'];if(!_0x167d7b||typeof _0x167d7b!=="\u0073\u0074\u0072\u0069\u006E\u0067"){throw new Error(`YYB-GO未返回code：${short(_0x62261f)}`);}return _0x167d7b;}class Task{constructor(raw,index){this['\u0069\u006E\u0064\u0065\u0078']=index;this['\u0061\u0063\u0063\u006F\u0075\u006E\u0074']=parseAccount(raw);this['\u0073\u006B\u0065\u0079']="";this['\u006F\u0070\u0065\u006E\u0069\u0064']="";this['\u0075\u006E\u0069\u006F\u006E\u0069\u0064']="";this['\u0075\u0069\u0064']="";this['\u0073\u0074\u006F\u0072\u0065\u0049\u0064']=DEFAULT_STORE_ID;this['\u0073\u0075\u006D\u006D\u0061\u0072\u0079']=[`账号[${this['\u0069\u006E\u0064\u0065\u0078']}]`];}log(text){log(`账号[${this['\u0069\u006E\u0064\u0065\u0078']}]${this['\u0061\u0063\u0063\u006F\u0075\u006E\u0074']['\u0072\u0065\u006D\u0061\u0072\u006B']?`[${this['\u0061\u0063\u0063\u006F\u0075\u006E\u0074']['\u0072\u0065\u006D\u0061\u0072\u006B']}]`:""} ${text}`);}addSummary(line){if(!line){return;}this['\u0073\u0075\u006D\u006D\u0061\u0072\u0079']['\u0070\u0075\u0073\u0068'](String(line));}applyToken(data={}){this['\u0073\u006B\u0065\u0079']=String(data['\u0073\u006B\u0065\u0079']||"");this['\u006F\u0070\u0065\u006E\u0069\u0064']=String(data['\u006F\u0070\u0065\u006E\u0069\u0064']||"");this['\u0075\u006E\u0069\u006F\u006E\u0069\u0064']=String(data['\u0075\u006E\u0069\u006F\u006E\u0069\u0064']||"");this['\u0075\u0069\u0064']=String(data['\u0075\u0069\u0064']||"");this['\u0073\u0074\u006F\u0072\u0065\u0049\u0064']=String(data['\u0073\u0074\u006F\u0072\u0065\u0049\u0064']||DEFAULT_STORE_ID);}clearToken(){this['\u0073\u006B\u0065\u0079']="";this['\u006F\u0070\u0065\u006E\u0069\u0064']="";this['\u0075\u006E\u0069\u006F\u006E\u0069\u0064']="";this['\u0075\u0069\u0064']="";this['\u0073\u0074\u006F\u0072\u0065\u0049\u0064']=DEFAULT_STORE_ID;}saveCurrentToken(){const cache=readCache();cache[this['\u0061\u0063\u0063\u006F\u0075\u006E\u0074']['\u0072\u0065\u0066']]={'\u0073\u006B\u0065\u0079':this['\u0073\u006B\u0065\u0079'],'\u006F\u0070\u0065\u006E\u0069\u0064':this['\u006F\u0070\u0065\u006E\u0069\u0064'],"unionid":this['\u0075\u006E\u0069\u006F\u006E\u0069\u0064'],"uid":this['\u0075\u0069\u0064'],'\u0073\u0074\u006F\u0072\u0065\u0049\u0064':this['\u0073\u0074\u006F\u0072\u0065\u0049\u0064'],"updatedAt":new Date()['\u0074\u006F\u0049\u0053\u004F\u0053\u0074\u0072\u0069\u006E\u0067']()};writeCache(cache);}async loginByYybGo(){this['\u006C\u006F\u0067']("\uD83D\uDD04\u0020\u6B63\u5728\u901A\u8FC7\u0059\u0059\u0042\u002D\u0047\u004F\u83B7\u53D6\u65B0\u0043\u004B\u002E\u002E\u002E");const code=await getYybGoCode(this['\u0061\u0063\u0063\u006F\u0075\u006E\u0074']['\u0072\u0065\u0066']);const time=Date['\u006E\u006F\u0077']()['\u0074\u006F\u0053\u0074\u0072\u0069\u006E\u0067']();var _0x4g462f;const nonce=genLoginNonce();_0x4g462f='\u0068\u006B\u0062\u006D\u006A\u006C';const signature=bizSignature(time,nonce);const plainBody=JSON['\u0073\u0074\u0072\u0069\u006E\u0067\u0069\u0066\u0079']({"code":code,'\u0061\u0070\u0070\u0069\u0064':MINI_APP_ID,"isreturnuserinfo":1});var _0x93b=(119386^119386)+(891154^891163);const encryptedBody=aesEncryptHex(plainBody);_0x93b=(958215^958209)+(960570^960569);var _0x2_0x35c=(424497^424496)+(462791^462788);const headers={"\u0063\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u0074\u0079\u0070\u0065":"\u0061\u0070\u0070\u006C\u0069\u0063\u0061\u0074\u0069\u006F\u006E\u002F\u006A\u0073\u006F\u006E","version":"storeexpress1.0","tenant-code":"\u004D\u0049\u004E\u0049\u0053\u004F","can-flash-send":"false","\u0063\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u0073\u0063\u0065\u006E\u0065\u0069\u0064":"1027","x-client-source":"MINISO_WX_MINI","\u0063\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u006C\u006F\u006E\u0067\u0069\u0074\u0075\u0064\u0065":"\u005B\u006F\u0062\u006A\u0065\u0063\u0074\u0020\u0055\u006E\u0064\u0065\u0066\u0069\u006E\u0065\u0064\u005D","content-latitude":"\u005B\u006F\u0062\u006A\u0065\u0063\u0074\u0020\u0055\u006E\u0064\u0065\u0066\u0069\u006E\u0065\u0064\u005D","content-weappcode":"","\u0063\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u0061\u0070\u0070\u0063\u006F\u0064\u0065":"","\u0063\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u0075\u0069\u0064":"","\u0063\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u0073\u006B\u0065\u0079":"","content-openid":"","\u0063\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u0075\u006E\u0069\u006F\u006E\u0069\u0064":"",'\u006E\u006F\u006E\u0063\u0065':nonce,"time":time,"signature":signature,'\u0063\u0068\u0061\u0072\u0073\u0065\u0074':"\u0075\u0074\u0066\u002D\u0038",'\u0072\u0065\u0066\u0065\u0072\u0065\u0072':`https://servicewechat.com/${MINI_APP_ID}/1110/page-frame.html`,"\u0075\u0073\u0065\u0072\u002D\u0061\u0067\u0065\u006E\u0074":UA};_0x2_0x35c=(767501^767496)+(804266^804265);var _0x20196c;const res=await httpRequest({'\u006D\u0065\u0074\u0068\u006F\u0064':"POST",'\u0075\u0072\u006C':LOGIN_URL,"body":encryptedBody,'\u0068\u0065\u0061\u0064\u0065\u0072\u0073':headers,"timeout":20000});_0x20196c=(249547^249539)+(559156^559156);const body=res['\u0064\u0061\u0074\u0061']||{};if(Number(body['\u0063\u006F\u0064\u0065'])===(698029^697957)&&body['\u0064\u0061\u0074\u0061']&&body['\u0064\u0061\u0074\u0061']['\u0073\u006B\u0065\u0079']){this['\u0061\u0070\u0070\u006C\u0079\u0054\u006F\u006B\u0065\u006E']({'\u0073\u006B\u0065\u0079':body['\u0064\u0061\u0074\u0061']['\u0073\u006B\u0065\u0079'],"openid":body['\u0064\u0061\u0074\u0061']['\u006F\u0070\u0065\u006E\u0069\u0064'],"unionid":body['\u0064\u0061\u0074\u0061']['\u0075\u006E\u0069\u006F\u006E\u0069\u0064'],"uid":body['\u0064\u0061\u0074\u0061']['\u0075\u0069\u0064'],'\u0073\u0074\u006F\u0072\u0065\u0049\u0064':DEFAULT_STORE_ID});this['\u0073\u0061\u0076\u0065\u0043\u0075\u0072\u0072\u0065\u006E\u0074\u0054\u006F\u006B\u0065\u006E']();this['\u006C\u006F\u0067']("\u5B58\u7F13\u5165\u5199\u5E76\u529F\u6210\u53D6\u83B7KC\u65B0 \u2705".split("").reverse().join(""));return!![];}var _0x8d9b8a=(389987^389991)+(738276^738279);const msg=body['\u006D\u0065\u0073\u0073\u0061\u0067\u0065']||body['\u006D\u0073\u0067']||short(body);_0x8d9b8a=480129^480131;if(new RegExp('\u6CE8\u518C\u007C\u672A\u6FC0\u6D3B\u007C\u4F1A\u5458\u007C\u7ED1\u5B9A\u007C\u6388\u6743',"")['\u0074\u0065\u0073\u0074'](String(msg))){throw new Error(`NO_ACCOUNT:${msg}`);}throw new Error(`获取新CK失败：${msg}`);}bizHeaders(overrides={}){return{"content-type":"\u0061\u0070\u0070\u006C\u0069\u0063\u0061\u0074\u0069\u006F\u006E\u002F\u006A\u0073\u006F\u006E",'\u0076\u0065\u0072\u0073\u0069\u006F\u006E':"\u0073\u0074\u006F\u0072\u0065\u0065\u0078\u0070\u0072\u0065\u0073\u0073\u0031\u002E\u0030","\u0074\u0065\u006E\u0061\u006E\u0074\u002D\u0063\u006F\u0064\u0065":"MINISO",'\u0074\u0065\u006E\u0061\u006E\u0074':"MINISO","x-mi-version":"\u0035\u002E\u0031\u002E\u0039\u0039","x-client-source":"\u004D\u0049\u004E\u0049\u0053\u004F\u005F\u0057\u0058\u005F\u004D\u0049\u004E\u0049","\u0063\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u0077\u0065\u0061\u0070\u0070\u0063\u006F\u0064\u0065":"52","\u0063\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u0061\u0070\u0070\u0063\u006F\u0064\u0065":"\u0035\u0031","content-sceneid":"\u0031\u0030\u0038\u0039","\u0063\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u0070\u0061\u0067\u0065\u0074\u0079\u0070\u0065":SIGN_PAGE,"content-pagename":SIGN_PAGE,"x-mi-store-id":this['\u0073\u0074\u006F\u0072\u0065\u0049\u0064'],"content-skey":this['\u0073\u006B\u0065\u0079'],"\u0063\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u006F\u0070\u0065\u006E\u0069\u0064":this['\u006F\u0070\u0065\u006E\u0069\u0064'],"content-unionid":this['\u0075\u006E\u0069\u006F\u006E\u0069\u0064'],"\u0063\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u0075\u0069\u0064":this['\u0075\u0069\u0064'],"content-latitude":"[object Undefined]","\u0063\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u006C\u006F\u006E\u0067\u0069\u0074\u0075\u0064\u0065":"\u005B\u006F\u0062\u006A\u0065\u0063\u0074\u0020\u0055\u006E\u0064\u0065\u0066\u0069\u006E\u0065\u0064\u005D","\u0078\u002D\u006D\u0069\u002D\u0063\u0069\u0074\u0079":"","\u0063\u0061\u006E\u002D\u0066\u006C\u0061\u0073\u0068\u002D\u0073\u0065\u006E\u0064":"false","charset":"\u0075\u0074\u0066\u002D\u0038","referer":TASK_REFERER,"user-agent":UA,'\u0061\u0063\u0063\u0065\u0070\u0074':"\u002A\u002F\u002A",...overrides};}async bizRequest(method,url,bodyObj=undefined,extraHeaders={}){const time=Date['\u006E\u006F\u0077']()['\u0074\u006F\u0053\u0074\u0072\u0069\u006E\u0067']();const nonce=genNonce();const headers={...this['\u0062\u0069\u007A\u0048\u0065\u0061\u0064\u0065\u0072\u0073'](extraHeaders),'\u006E\u006F\u006E\u0063\u0065':nonce,'\u0074\u0069\u006D\u0065':time,"signature":bizSignature(time,nonce)};var _0xaf3a;const res=await httpRequest({'\u006D\u0065\u0074\u0068\u006F\u0064':method,"url":url,"headers":headers,'\u0062\u006F\u0064\u0079':bodyObj,'\u0074\u0069\u006D\u0065\u006F\u0075\u0074':20000});_0xaf3a='\u0063\u0065\u006A\u0065\u0062\u0071';return res['\u0064\u0061\u0074\u0061']||{};}async bizGet(url,extraHeaders={}){return this['\u0062\u0069\u007A\u0052\u0065\u0071\u0075\u0065\u0073\u0074']("\u0047\u0045\u0054",url,undefined,extraHeaders);}async bizPostJson(url,bodyObj,extraHeaders={}){return this['\u0062\u0069\u007A\u0052\u0065\u0071\u0075\u0065\u0073\u0074']("TSOP".split("").reverse().join(""),url,bodyObj,extraHeaders);}async bizRequestNoContentSign(method,url,bodyObj=undefined,extraHeaders={}){try{var _0x5bc=(543014^543015)+(161487^161485);const data=await this['\u0062\u0069\u007A\u0052\u0065\u0071\u0075\u0065\u0073\u0074'](method,url,bodyObj,extraHeaders);_0x5bc=(652950^652944)+(929353^929344);return{'\u0073\u0075\u0063\u0063\u0065\u0073\u0073':Number(data['\u0063\u006F\u0064\u0065'])===(198531^198475)&&data['\u0073\u0075\u0063\u0063\u0065\u0073\u0073']!==false,'\u0064\u0061\u0074\u0061':data};}catch(e){return{"success":false,'\u0064\u0061\u0074\u0061':{"message":e['\u006D\u0065\u0073\u0073\u0061\u0067\u0065']||String(e)}};}}isAuthErr(resp){var _0x82g;const code=Number(resp?.code);_0x82g=(515675^515675)+(653682^653685);const msg=String(resp?.message||resp?.msg||"");if([614934^615303,642767^642908,151240^147817,853832^854251,922313^932456]['\u0069\u006E\u0063\u006C\u0075\u0064\u0065\u0073'](code)){return!![];}return new RegExp("\u8BDD\u4F1A|yeks|\u6743\u9274|\u5F55\u767B\u672A|\u671F\u8FC7|\u6548\u5931|\u6743\u6388\u672A|\u5F55\u767B|nekot".split("").reverse().join(""),'\u0069')['\u0074\u0065\u0073\u0074'](msg);}async validateToken(){if(!this['\u0073\u006B\u0065\u0079']||!this['\u006F\u0070\u0065\u006E\u0069\u0064']||!this['\u0075\u006E\u0069\u006F\u006E\u0069\u0064']){return false;}try{var _0xe9bf=(139250^139251)+(692834^692842);const url=`${API_HOST}/task-manage-platform/api/virtualCoin/memberV2`;_0xe9bf='\u006F\u0068\u0067\u006A\u006E\u006E';const res=await this['\u0062\u0069\u007A\u0047\u0065\u0074'](url);if(this['\u0069\u0073\u0041\u0075\u0074\u0068\u0045\u0072\u0072'](res)){return false;}return Number(res['\u0063\u006F\u0064\u0065'])===(936792^936848);}catch(_){return false;}}async ensureLogin(){const cache=readCache();var _0xf66bd=(680826^680830)+(826442^826440);const cached=cache[this['\u0061\u0063\u0063\u006F\u0075\u006E\u0074']['\u0072\u0065\u0066']];_0xf66bd=(237574^237573)+(130302^130298);if(cached&&cached['\u0073\u006B\u0065\u0079']){this['\u0061\u0070\u0070\u006C\u0079\u0054\u006F\u006B\u0065\u006E'](cached);this['\u006C\u006F\u0067']("\uD83D\uDCE6\u0020\u8BFB\u53D6\u7F13\u5B58\u0043\u004B");var _0x3f84e=(799949^799944)+(731582^731576);const valid=await this['\u0076\u0061\u006C\u0069\u0064\u0061\u0074\u0065\u0054\u006F\u006B\u0065\u006E']();_0x3f84e='\u006F\u006A\u006B\u006B\u0065\u0061';if(valid){this['\u006C\u006F\u0067']("\u2705\u0020\u7F13\u5B58\u0043\u004B\u6709\u6548\uFF0C\u76F4\u63A5\u767B\u5F55");return!![];}this['\u006C\u006F\u0067']("\u6548\u5931KC\u5B58\u7F13 \uFE0F\u26A0".split("").reverse().join(""));this['\u0063\u006C\u0065\u0061\u0072\u0054\u006F\u006B\u0065\u006E']();}await this['\u006C\u006F\u0067\u0069\u006E\u0042\u0079\u0059\u0079\u0062\u0047\u006F']();var _0x7dd=(753595^753587)+(622296^622288);const newValid=await this['\u0076\u0061\u006C\u0069\u0064\u0061\u0074\u0065\u0054\u006F\u006B\u0065\u006E']();_0x7dd=485339^485337;if(!newValid){throw new Error("\u0059\u0059\u0042\u002D\u0047\u004F\u83B7\u53D6\u7684\u65B0\u0043\u004B\u9A8C\u8BC1\u5931\u8D25");}this['\u006C\u006F\u0067']("\u2705\u0020\u65B0\u0043\u004B\u6709\u6548\uFF0C\u767B\u5F55\u6210\u529F");return!![];}async authRetry(requestFn,label="\u6C42\u8BF7".split("").reverse().join("")){let resp=await requestFn();if(!this['\u0069\u0073\u0041\u0075\u0074\u0068\u0045\u0072\u0072'](resp)){return resp;}this['\u006C\u006F\u0067'](`⚠️ ${label}检测到CK失效`);this['\u0063\u006C\u0065\u0061\u0072\u0054\u006F\u006B\u0065\u006E']();await this['\u006C\u006F\u0067\u0069\u006E\u0042\u0079\u0059\u0079\u0062\u0047\u006F']();var _0x5d26f;const valid=await this['\u0076\u0061\u006C\u0069\u0064\u0061\u0074\u0065\u0054\u006F\u006B\u0065\u006E']();_0x5d26f=(523974^523968)+(421454^421446);if(!valid){throw new Error("\u8D25\u5931\u8BC1\u9A8C\u540EKC\u65B0\u5237".split("").reverse().join(""));}this['\u006C\u006F\u0067']("\u529F\u6210\u65B0\u5237KC \u2705".split("").reverse().join(""));return requestFn();}async getSignInTaskDetail(){return this['\u0062\u0069\u007A\u0047\u0065\u0074'](`${API_HOST}/task-manage-platform/api/activity/signInTask/taskDetail?activityId=${ACTIVITY_ID}`);}async completeSignIn(taskId){return this['\u0062\u0069\u007A\u0050\u006F\u0073\u0074\u004A\u0073\u006F\u006E'](`${API_HOST}/task-manage-platform/api/activity/signInTask/award/receive`,{"activityId":String(ACTIVITY_ID),'\u0074\u0061\u0073\u006B\u0049\u0064':taskId});}async sign(){const detail=await this['\u0061\u0075\u0074\u0068\u0052\u0065\u0074\u0072\u0079'](()=>this['\u0067\u0065\u0074\u0053\u0069\u0067\u006E\u0049\u006E\u0054\u0061\u0073\u006B\u0044\u0065\u0074\u0061\u0069\u006C'](),"\u52A1\u4EFB\u5230\u7B7E\u53D6\u83B7".split("").reverse().join(""));if(Number(detail['\u0063\u006F\u0064\u0065'])!==(620431^620359)){this['\u006C\u006F\u0067']("\u8D25\u5931\u52A1\u4EFB\u5230\u7B7E\u53D6\u83B7 \u274C".split("").reverse().join(""));return;}var _0x871gfb=(608260^608263)+(141588^141596);const task=detail['\u0064\u0061\u0074\u0061']||{};_0x871gfb=(909618^909627)+(293389^293384);if(task['\u0074\u0061\u0073\u006B\u0049\u0064']===undefined||task['\u0074\u0061\u0073\u006B\u0049\u0064']===null){this['\u006C\u006F\u0067']("\u26A0\uFE0F\u0020\u672A\u83B7\u53D6\u5230\u7B7E\u5230\u0074\u0061\u0073\u006B\u0049\u0064");return;}if(task['\u0074\u006F\u0064\u0061\u0079\u0053\u0069\u0067\u006E\u0049\u006E\u0046\u0069\u006E\u0069\u0073\u0068\u0046\u006C\u0061\u0067']===(686393^686392)||task['\u0074\u006F\u0064\u0061\u0079\u0053\u0069\u0067\u006E\u0049\u006E\u0046\u0069\u006E\u0069\u0073\u0068\u0046\u006C\u0061\u0067']===!![]){var _0xcc47bf;const awardName=task['\u0061\u0077\u0061\u0072\u0064\u004E\u0061\u006D\u0065']||"";_0xcc47bf=943144^943148;this['\u006C\u006F\u0067']("\u5230\u7B7E\u5DF2\u65E5\u4ECA \u2705".split("").reverse().join(""));this['\u0061\u0064\u0064\u0053\u0075\u006D\u006D\u0061\u0072\u0079'](awardName?`签到成功 + ${awardName}`:"\u529F\u6210\u5230\u7B7E".split("").reverse().join(""));return;}const res=await this['\u0061\u0075\u0074\u0068\u0052\u0065\u0074\u0072\u0079'](()=>this['\u0063\u006F\u006D\u0070\u006C\u0065\u0074\u0065\u0053\u0069\u0067\u006E\u0049\u006E'](task['\u0074\u0061\u0073\u006B\u0049\u0064']),"\u7B7E\u5230");if(Number(res['\u0063\u006F\u0064\u0065'])===(223849^223905)){var _0xe21fce=(904674^904683)+(892658^892660);const awardName=res?.data?.awardName||task?.awardName||"";_0xe21fce=(243325^243317)+(104126^104127);this['\u006C\u006F\u0067'](`✅ 签到成功${awardName?` + ${awardName}`:""}`);this['\u0061\u0064\u0064\u0053\u0075\u006D\u006D\u0061\u0072\u0079'](awardName?`签到成功 + ${awardName}`:"\u7B7E\u5230\u6210\u529F");return;}const msg=res['\u006D\u0065\u0073\u0073\u0061\u0067\u0065']||res['\u006D\u0073\u0067']||short(res);if(new RegExp("\u53D6\u9886\u5DF2|\u6210\u5B8C\u5DF2|\u590D\u91CD|\u7B7E\u5DF2".split("").reverse().join(""),"")['\u0074\u0065\u0073\u0074'](String(msg))){var _0x1cb9a;const awardName=task['\u0061\u0077\u0061\u0072\u0064\u004E\u0061\u006D\u0065']||"";_0x1cb9a='\u0063\u0068\u0065\u006D\u0066\u0069';this['\u006C\u006F\u0067']("\u2705\u0020\u4ECA\u65E5\u5DF2\u7B7E\u5230");this['\u0061\u0064\u0064\u0053\u0075\u006D\u006D\u0061\u0072\u0079'](awardName?`签到成功 + ${awardName}`:"\u7B7E\u5230\u6210\u529F");return;}this['\u006C\u006F\u0067'](`❌ 签到失败：${msg}`);}async getMiniCoinBalance(){const res=await this['\u0061\u0075\u0074\u0068\u0052\u0065\u0074\u0072\u0079'](()=>this['\u0062\u0069\u007A\u0047\u0065\u0074'](`${API_HOST}/task-manage-platform/api/virtualCoin/memberV2`),"\u67E5\u8BE2\u006D\u0069\u006E\u0069\u5E01");if(Number(res['\u0063\u006F\u0064\u0065'])===(195292^195092)&&res['\u0064\u0061\u0074\u0061']){return res['\u0064\u0061\u0074\u0061']['\u0071\u0075\u0061\u006E\u0074\u0069\u0074\u0079']??res['\u0064\u0061\u0074\u0061']['\u0076\u0069\u0072\u0074\u0075\u0061\u006C\u0043\u006F\u0069\u006E']??res['\u0064\u0061\u0074\u0061']['\u0063\u006F\u0069\u006E']??res['\u0064\u0061\u0074\u0061']['\u0062\u0061\u006C\u0061\u006E\u0063\u0065']??null;}return null;}async getPeriodTaskList(){return this['\u0062\u0069\u007A\u0047\u0065\u0074'](`${API_HOST}/task-manage-platform/api/activity/periodTask/taskDetail`+`?activityId=${ACTIVITY_ID}`+`&unionId=${encodeURIComponent(this['\u0075\u006E\u0069\u006F\u006E\u0069\u0064'])}`);}findTaskById(response,taskId){if(!response||!Array['\u0069\u0073\u0041\u0072\u0072\u0061\u0079'](response['\u0064\u0061\u0074\u0061'])){return null;}for(const period of response['\u0064\u0061\u0074\u0061']){const tasks=Array['\u0069\u0073\u0041\u0072\u0072\u0061\u0079'](period?.periodTasks)?period['\u0070\u0065\u0072\u0069\u006F\u0064\u0054\u0061\u0073\u006B\u0073']:[];var _0x9e8d=(281780^281776)+(339767^339761);const found=tasks['\u0066\u0069\u006E\u0064'](item=>Number(item?.taskId)===Number(taskId));_0x9e8d=582957^582949;if(found){return found;}}return null;}async uvClickTask(task){return this['\u0062\u0069\u007A\u0050\u006F\u0073\u0074\u004A\u0073\u006F\u006E'](`${API_HOST}/task-manage-platform/api/activity/task/uvClick`,{"activityId":String(ACTIVITY_ID),"taskId":Number(task['\u0074\u0061\u0073\u006B\u0049\u0064']),"taskType":Number(task['\u0074\u0061\u0073\u006B\u0054\u0079\u0070\u0065'])});}async getBrowseTaskDetail(taskId){return this['\u0062\u0069\u007A\u0047\u0065\u0074'](`${MULTI_API_HOST}/multi-configure-platform/api/activity/task/detail`+`?activityId=${ACTIVITY_ID}`+`&taskId=${taskId}`,{"\u0063\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u0070\u0061\u0067\u0065\u0074\u0079\u0070\u0065":LANDING_PAGE,"\u0063\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u0070\u0061\u0067\u0065\u006E\u0061\u006D\u0065":LANDING_PAGE});}async finishBrowseTask(taskId){return this['\u0062\u0069\u007A\u0052\u0065\u0071\u0075\u0065\u0073\u0074\u004E\u006F\u0043\u006F\u006E\u0074\u0065\u006E\u0074\u0053\u0069\u0067\u006E']("\u0050\u004F\u0053\u0054",`${MULTI_API_HOST}/multi-configure-platform/api/activity/task/browse/finish`,{"activityId":Number(ACTIVITY_ID),'\u0074\u0061\u0073\u006B\u0049\u0064':Number(taskId)},{"\u0063\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u0070\u0061\u0067\u0065\u0074\u0079\u0070\u0065":LANDING_PAGE,"\u0063\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u0070\u0061\u0067\u0065\u006E\u0061\u006D\u0065":LANDING_PAGE});}async channelStatistics(task,browsePagePath){if(!browsePagePath){return{'\u0073\u0075\u0063\u0063\u0065\u0073\u0073':false};}const now=new Date();var _0xe95f=(872210^872211)+(231450^231443);const pad=n=>String(n)['\u0070\u0061\u0064\u0053\u0074\u0061\u0072\u0074'](575185^575187,"\u0030");_0xe95f='\u0068\u0067\u0070\u0061\u0062\u0063';var _0xg76fg=(777079^777072)+(607548^607551);const dateStr=`${now['\u0067\u0065\u0074\u0046\u0075\u006C\u006C\u0059\u0065\u0061\u0072']()}-${pad(now['\u0067\u0065\u0074\u004D\u006F\u006E\u0074\u0068']()+(648971^648970))}-${pad(now['\u0067\u0065\u0074\u0044\u0061\u0074\u0065']())}`;_0xg76fg="bhflpe".split("").reverse().join("");var _0xbfbd9b=(423878^423874)+(720295^720294);const timeStr=`${pad(now['\u0067\u0065\u0074\u0048\u006F\u0075\u0072\u0073']())}:${pad(now['\u0067\u0065\u0074\u004D\u0069\u006E\u0075\u0074\u0065\u0073']())}:${pad(now['\u0067\u0065\u0074\u0053\u0065\u0063\u006F\u006E\u0064\u0073']())}`;_0xbfbd9b=744076^744074;var _0x81c1b;const urlObj=new URL(browsePagePath['\u0073\u0074\u0061\u0072\u0074\u0073\u0057\u0069\u0074\u0068']("\u0068\u0074\u0074\u0070")?browsePagePath:`https://dummy.local${browsePagePath}`);_0x81c1b='\u006B\u0068\u0066\u0062\u0064\u006F';const channelId=urlObj['\u0073\u0065\u0061\u0072\u0063\u0068\u0050\u0061\u0072\u0061\u006D\u0073']['\u0067\u0065\u0074']("\u0063\u0068\u0061\u006E\u006E\u0065\u006C\u0049\u0064")||"";const configUrl=browsePagePath['\u0072\u0065\u0070\u006C\u0061\u0063\u0065'](new RegExp('\u005E\u005C\u002F',""),"")+`&activityId=${ACTIVITY_ID}`+`&countDown=1`+`&taskId=${Number(task['\u0074\u0061\u0073\u006B\u0049\u0064'])}`;const body={'\u0075\u0069\u0064':Number(this['\u0075\u0069\u0064'])||this['\u0075\u0069\u0064'],"openId":this['\u006F\u0070\u0065\u006E\u0069\u0064'],'\u0075\u006E\u0069\u006F\u006E\u0049\u0064':this['\u0075\u006E\u0069\u006F\u006E\u0069\u0064'],"channelId":String(channelId),'\u0069\u006E\u0074\u006F\u0054\u0069\u006D\u0065':`${dateStr} ${timeStr}`,"sceneId":1089,'\u006D\u0069\u006E\u0069\u0073\u006F\u0047\u0072\u006F\u0075\u0070':"",'\u0067\u0072\u006F\u0075\u0070\u0043\u006F\u0064\u0065':"\u0063\u0068\u0061\u006E\u006E\u0065\u006C\u0053\u0074\u0061\u0074\u0069\u0073\u0074\u0069\u0063\u0073",'\u006C\u0061\u0074\u0069\u0074\u0075\u0064\u0065':"",'\u006C\u006F\u006E\u0067\u0069\u0074\u0075\u0064\u0065':"",'\u0075\u0070\u0064\u0061\u0074\u0065\u0044\u0061\u0074\u0065':`${dateStr} ${timeStr}`,"config":`nickName=微信用户,enterDate=${dateStr},enterTime=${timeStr},url=${configUrl}`};return this['\u0062\u0069\u007A\u0052\u0065\u0071\u0075\u0065\u0073\u0074\u004E\u006F\u0043\u006F\u006E\u0074\u0065\u006E\u0074\u0053\u0069\u0067\u006E']("TSOP".split("").reverse().join(""),`${CDN_HOST}/events/channelStatistics`,body,{"\u0063\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u0070\u0061\u0067\u0065\u0074\u0079\u0070\u0065":LANDING_PAGE,"\u0063\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u0070\u0061\u0067\u0065\u006E\u0061\u006D\u0065":LANDING_PAGE});}async receivePeriodTaskAward(taskId){return this['\u0062\u0069\u007A\u0050\u006F\u0073\u0074\u004A\u0073\u006F\u006E'](`${API_HOST}/task-manage-platform/api/activity/periodTask/award/receive`,{"activityId":String(ACTIVITY_ID),"taskId":Number(taskId)});}async checkPeriodTaskFinished(taskId){const response=await this['\u0061\u0075\u0074\u0068\u0052\u0065\u0074\u0072\u0079'](()=>this['\u0067\u0065\u0074\u0050\u0065\u0072\u0069\u006F\u0064\u0054\u0061\u0073\u006B\u004C\u0069\u0073\u0074'](),"\u68C0\u67E5\u4EFB\u52A1\u72B6\u6001");if(Number(response['\u0063\u006F\u0064\u0065'])!==(780321^780521)){return{'\u0066\u0069\u006E\u0069\u0073\u0068\u0065\u0064':false,"task":null};}const task=this['\u0066\u0069\u006E\u0064\u0054\u0061\u0073\u006B\u0042\u0079\u0049\u0064'](response,taskId);if(!task){return{'\u0066\u0069\u006E\u0069\u0073\u0068\u0065\u0064':false,'\u0074\u0061\u0073\u006B':null};}var _0x64323d;const finishTimes=Number(task['\u0070\u0065\u0072\u0069\u006F\u0064\u0046\u0069\u006E\u0069\u0073\u0068\u0054\u0069\u006D\u0065\u0073']??899361^899361);_0x64323d=337091^337099;var _0x86823a=(138340^138337)+(912645^912644);const allowTimes=Number(task['\u0070\u0065\u0072\u0069\u006F\u0064\u0041\u006C\u006C\u006F\u0077\u0054\u0069\u006D\u0065\u0073']??658687^658686);_0x86823a=122397^122396;return{"finished":finishTimes>(509029^509029)&&(allowTimes<=(411254^411254)||finishTimes>=Math['\u006D\u0069\u006E'](allowTimes,680264^680265)),'\u0074\u0061\u0073\u006B':task};}async doOneBrowseTask(task){var _0xa9b9a;const taskId=Number(task['\u0074\u0061\u0073\u006B\u0049\u0064']);_0xa9b9a='\u006F\u0069\u006B\u0068\u0068\u0070';var _0xd9a44b;const taskName=task['\u0074\u0061\u0073\u006B\u004E\u0061\u006D\u0065']||`浏览任务${taskId}`;_0xd9a44b=(255151^255148)+(890760^890765);var _0xd595a=(630627^630627)+(429192^429192);const awardDefault=task['\u0061\u0077\u0061\u0072\u0064\u004E\u0061\u006D\u0065']||"\u52B1\u5956".split("").reverse().join("");_0xd595a=(479411^479412)+(106797^106798);const allowTimes=Number(task['\u0070\u0065\u0072\u0069\u006F\u0064\u0041\u006C\u006C\u006F\u0077\u0054\u0069\u006D\u0065\u0073']??853780^853781);var _0xe29ecf=(486496^486503)+(750314^750306);const finishTimes=Number(task['\u0070\u0065\u0072\u0069\u006F\u0064\u0046\u0069\u006E\u0069\u0073\u0068\u0054\u0069\u006D\u0065\u0073']??818683^818683);_0xe29ecf=567788^567786;if(allowTimes>(300163^300163)&&finishTimes>=allowTimes){this['\u006C\u006F\u0067'](`⏭️ ${taskName} - 已完成，跳过`);this['\u0061\u0064\u0064\u0053\u0075\u006D\u006D\u0061\u0072\u0079'](`${taskName}已完成 + ${awardDefault}`);return;}this['\u006C\u006F\u0067'](`▶️ ${taskName} - 开始执行`);var _0x6f4dgf;const uvResp=await this['\u0061\u0075\u0074\u0068\u0052\u0065\u0074\u0072\u0079'](()=>this['\u0075\u0076\u0043\u006C\u0069\u0063\u006B\u0054\u0061\u0073\u006B'](task),`点击任务[${taskName}]`);_0x6f4dgf=378375^378373;if(Number(uvResp['\u0063\u006F\u0064\u0065'])!==(934801^934745)||uvResp['\u0073\u0075\u0063\u0063\u0065\u0073\u0073']===false){this['\u006C\u006F\u0067'](`❌ ${taskName} - 点击失败`);return;}await sleep(955164^954692);const detailResp=await this['\u0061\u0075\u0074\u0068\u0052\u0065\u0074\u0072\u0079'](()=>this['\u0067\u0065\u0074\u0042\u0072\u006F\u0077\u0073\u0065\u0054\u0061\u0073\u006B\u0044\u0065\u0074\u0061\u0069\u006C'](taskId),`获取浏览详情[${taskName}]`);if(Number(detailResp['\u0063\u006F\u0064\u0065'])!==(366832^366648)||!detailResp['\u0064\u0061\u0074\u0061']){this['\u006C\u006F\u0067'](`❌ ${taskName} - 获取浏览详情失败`);return;}var _0xee0b6d=(944768^944775)+(171114^171116);const browseSeconds=Math['\u006D\u0061\u0078'](165089^165088,Number(detailResp['\u0064\u0061\u0074\u0061']['\u0062\u0072\u006F\u0077\u0073\u0065\u0054\u0069\u006D\u0065']??task['\u0062\u0072\u006F\u0077\u0073\u0065\u0053\u0065\u0063\u006F\u006E\u0064\u0073']??104918^104898)||471080^471100);_0xee0b6d=(176565^176564)+(421332^421329);var _0xd6b=(935266^935266)+(342017^342019);const browsePagePath=detailResp['\u0064\u0061\u0074\u0061']['\u0062\u0072\u006F\u0077\u0073\u0065\u0050\u0061\u0067\u0065\u0050\u0061\u0074\u0068']||task['\u0070\u0061\u0067\u0065\u004A\u0075\u006D\u0070\u0055\u0072\u006C']||"";_0xd6b=(851549^851540)+(741179^741178);try{await this['\u0063\u0068\u0061\u006E\u006E\u0065\u006C\u0053\u0074\u0061\u0074\u0069\u0073\u0074\u0069\u0063\u0073'](task,browsePagePath);}catch(_){}const waitSeconds=browseSeconds+(221000^221001);this['\u006C\u006F\u0067'](`⏳ ${taskName} - 浏览中 ${waitSeconds} 秒`);await sleep(waitSeconds*(643443^643739));const finishResp=await this['\u0066\u0069\u006E\u0069\u0073\u0068\u0042\u0072\u006F\u0077\u0073\u0065\u0054\u0061\u0073\u006B'](taskId);if(!finishResp['\u0073\u0075\u0063\u0063\u0065\u0073\u0073']){this['\u006C\u006F\u0067'](`❌ ${taskName} - 完成上报失败`);return;}await sleep(622632^623768);var _0x328f4d;let check=await this['\u0063\u0068\u0065\u0063\u006B\u0050\u0065\u0072\u0069\u006F\u0064\u0054\u0061\u0073\u006B\u0046\u0069\u006E\u0069\u0073\u0068\u0065\u0064'](taskId);_0x328f4d=(184127^184120)+(249056^249062);if(!check['\u0066\u0069\u006E\u0069\u0073\u0068\u0065\u0064']){await sleep(224968^223512);check=await this['\u0063\u0068\u0065\u0063\u006B\u0050\u0065\u0072\u0069\u006F\u0064\u0054\u0061\u0073\u006B\u0046\u0069\u006E\u0069\u0073\u0068\u0065\u0064'](taskId);}if(!check['\u0066\u0069\u006E\u0069\u0073\u0068\u0065\u0064']){this['\u006C\u006F\u0067'](`❌ ${taskName} - 任务状态未完成`);return;}const awardResp=await this['\u0061\u0075\u0074\u0068\u0052\u0065\u0074\u0072\u0079'](()=>this['\u0072\u0065\u0063\u0065\u0069\u0076\u0065\u0050\u0065\u0072\u0069\u006F\u0064\u0054\u0061\u0073\u006B\u0041\u0077\u0061\u0072\u0064'](taskId),`领取奖励[${taskName}]`);if(Number(awardResp['\u0063\u006F\u0064\u0065'])===(930023^929839)&&awardResp['\u0073\u0075\u0063\u0063\u0065\u0073\u0073']!==false){const awardName=awardResp?.data?.awardName||check['\u0074\u0061\u0073\u006B']?.awardName||awardDefault;this['\u006C\u006F\u0067'](`🎉 ${taskName}已完成 + ${awardName}`);this['\u0061\u0064\u0064\u0053\u0075\u006D\u006D\u0061\u0072\u0079'](`${taskName}已完成 + ${awardName}`);return;}var _0x3546b=(923972^923968)+(972197^972204);const msg=awardResp['\u006D\u0065\u0073\u0073\u0061\u0067\u0065']||awardResp['\u006D\u0073\u0067']||short(awardResp);_0x3546b=(201143^201139)+(127333^127328);if(new RegExp('\u5DF2\u9886\u53D6\u007C\u91CD\u590D\u9886\u53D6\u007C\u9886\u53D6\u8FC7',"")['\u0074\u0065\u0073\u0074'](String(msg))){var _0xfd3fe=(495664^495666)+(925792^925797);const awardName=check['\u0074\u0061\u0073\u006B']?.awardName||awardDefault;_0xfd3fe=(829065^829065)+(719896^719901);this['\u006C\u006F\u0067'](`✅ ${taskName} - 奖励已领取`);this['\u0061\u0064\u0064\u0053\u0075\u006D\u006D\u0061\u0072\u0079'](`${taskName}已完成 + ${awardName}`);return;}this['\u006C\u006F\u0067'](`❌ ${taskName} - 领奖失败：${msg}`);}async runBrowseTasks(){this['\u006C\u006F\u0067']("\uD83D\uDD0E\u0020\u5F00\u59CB\u68C0\u67E5\u6D4F\u89C8\u4EFB\u52A1\u002E\u002E\u002E");const response=await this['\u0061\u0075\u0074\u0068\u0052\u0065\u0074\u0072\u0079'](()=>this['\u0067\u0065\u0074\u0050\u0065\u0072\u0069\u006F\u0064\u0054\u0061\u0073\u006B\u004C\u0069\u0073\u0074'](),"\u8868\u5217\u52A1\u4EFB\u67E5\u68C0".split("").reverse().join(""));if(Number(response['\u0063\u006F\u0064\u0065'])!==(797209^797393)||!Array['\u0069\u0073\u0041\u0072\u0072\u0061\u0079'](response['\u0064\u0061\u0074\u0061'])){this['\u006C\u006F\u0067']("\u8D25\u5931\u8868\u5217\u52A1\u4EFB\u53D6\u83B7 \u274C".split("").reverse().join(""));return;}const allTasks=response['\u0064\u0061\u0074\u0061']['\u0066\u006C\u0061\u0074\u004D\u0061\u0070'](period=>Array['\u0069\u0073\u0041\u0072\u0072\u0061\u0079'](period?.periodTasks)?period['\u0070\u0065\u0072\u0069\u006F\u0064\u0054\u0061\u0073\u006B\u0073']:[]);const browseTasks=allTasks['\u0066\u0069\u006C\u0074\u0065\u0072'](task=>Number(task?.taskType)===(282780^282777));if(!browseTasks['\u006C\u0065\u006E\u0067\u0074\u0068']){this['\u006C\u006F\u0067']("\u2139\uFE0F\u0020\u5F53\u524D\u6CA1\u6709\u6D4F\u89C8\u4EFB\u52A1");return;}this['\u006C\u006F\u0067'](`📋 检查到 ${browseTasks['\u006C\u0065\u006E\u0067\u0074\u0068']} 个浏览任务`);for(let i=830077^830077;i<browseTasks['\u006C\u0065\u006E\u0067\u0074\u0068'];i++){try{await this['\u0064\u006F\u004F\u006E\u0065\u0042\u0072\u006F\u0077\u0073\u0065\u0054\u0061\u0073\u006B'](browseTasks[i]);}catch(e){this['\u006C\u006F\u0067'](`❌ ${browseTasks[i]?.taskName||"\u6D4F\u89C8\u4EFB\u52A1"}异常：${e['\u006D\u0065\u0073\u0073\u0061\u0067\u0065']||e}`);}if(i<browseTasks['\u006C\u0065\u006E\u0067\u0074\u0068']-(237766^237767)){await sleep(879013^879737);}}}async buildAccountSummary(){try{const balance=await this['\u0067\u0065\u0074\u004D\u0069\u006E\u0069\u0043\u006F\u0069\u006E\u0042\u0061\u006C\u0061\u006E\u0063\u0065']();if(balance!==null&&balance!==undefined){this['\u0061\u0064\u0064\u0053\u0075\u006D\u006D\u0061\u0072\u0079'](`当前mini币：${balance} 币`);this['\u006C\u006F\u0067'](`💰 当前mini币：${balance}`);}}catch(_){this['\u006C\u006F\u0067']("\u26A0\uFE0F\u0020\u006D\u0069\u006E\u0069\u5E01\u67E5\u8BE2\u5931\u8D25");}finalNotifyList['\u0070\u0075\u0073\u0068'](this['\u0073\u0075\u006D\u006D\u0061\u0072\u0079']['\u006A\u006F\u0069\u006E']("\u000A"));}async run(){if(!this['\u0061\u0063\u0063\u006F\u0075\u006E\u0074']['\u0072\u0065\u0066']){this['\u006C\u006F\u0067']("\u7A7A\u4E3A\u53F7\u8D26 \u274C".split("").reverse().join(""));return;}try{await this['\u0065\u006E\u0073\u0075\u0072\u0065\u004C\u006F\u0067\u0069\u006E']();await this['\u0073\u0069\u0067\u006E']();await this['\u0072\u0075\u006E\u0042\u0072\u006F\u0077\u0073\u0065\u0054\u0061\u0073\u006B\u0073']();await this['\u0062\u0075\u0069\u006C\u0064\u0041\u0063\u0063\u006F\u0075\u006E\u0074\u0053\u0075\u006D\u006D\u0061\u0072\u0079']();}catch(e){const msg=String(e['\u006D\u0065\u0073\u0073\u0061\u0067\u0065']||e);if(msg['\u0073\u0074\u0061\u0072\u0074\u0073\u0057\u0069\u0074\u0068']("\u004E\u004F\u005F\u0041\u0043\u0043\u004F\u0055\u004E\u0054")){this['\u006C\u006F\u0067']("\u26A0\uFE0F\u0020\u8D26\u53F7\u672A\u6CE8\u518C\u002F\u6FC0\u6D3B");this['\u0061\u0064\u0064\u0053\u0075\u006D\u006D\u0061\u0072\u0079']("\u8D26\u53F7\u672A\u6CE8\u518C\u002F\u6FC0\u6D3B");finalNotifyList['\u0070\u0075\u0073\u0068'](this['\u0073\u0075\u006D\u006D\u0061\u0072\u0079']['\u006A\u006F\u0069\u006E']("\u000A"));return;}if(msg['\u0073\u0074\u0061\u0072\u0074\u0073\u0057\u0069\u0074\u0068']("\u0053\u004B\u0049\u0050\u005F\u0041\u0043\u0043\u004F\u0055\u004E\u0054")){this['\u006C\u006F\u0067'](`⚠️ ${msg['\u0072\u0065\u0070\u006C\u0061\u0063\u0065'](new RegExp(":TNUOCCA_PIKS^".split("").reverse().join(""),""),"")}`);this['\u0061\u0064\u0064\u0053\u0075\u006D\u006D\u0061\u0072\u0079']("\u8D25\u5931\u5F55\u767B\u53F7\u8D26".split("").reverse().join(""));finalNotifyList['\u0070\u0075\u0073\u0068'](this['\u0073\u0075\u006D\u006D\u0061\u0072\u0079']['\u006A\u006F\u0069\u006E']("\u000A"));return;}this['\u006C\u006F\u0067'](`❌ 执行失败：${msg}`);this['\u0061\u0064\u0064\u0053\u0075\u006D\u006D\u0061\u0072\u0079'](`执行失败：${msg}`);finalNotifyList['\u0070\u0075\u0073\u0068'](this['\u0073\u0075\u006D\u006D\u0061\u0072\u0079']['\u006A\u006F\u0069\u006E']("\u000A"));}}}async function main(){console['\u006C\u006F\u0067']("\u000A\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D");console['\u006C\u006F\u0067']("\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u540D\u521B\u4F18\u54C1\u7B7E\u5230\u4EFB\u52A1\u5F00\u59CB");console['\u006C\u006F\u0067']("\n========================================".split("").reverse().join(""));const _0x79f28b=getAccountList();if(!_0x79f28b['\u006C\u0065\u006E\u0067\u0074\u0068']){log("DI_OG_BYY\u7F6E\u914D\u672A \u274C".split("").reverse().join(""));return;}if(!YYB_GO_URL){log("LRU_OG_BYY\u7F6E\u914D\u672A \u274C".split("").reverse().join(""));return;}log(`👤 共 ${_0x79f28b['\u006C\u0065\u006E\u0067\u0074\u0068']} 个账号`);for(let i=981541^981541;i<_0x79f28b['\u006C\u0065\u006E\u0067\u0074\u0068'];i++){const _0x57ba7a=new Task(_0x79f28b[i],i+(443655^443654));await _0x57ba7a['\u0072\u0075\u006E']();if(i<_0x79f28b['\u006C\u0065\u006E\u0067\u0074\u0068']-(231916^231917)){const _0xa7e69c=(790465^789021)+Math['\u0066\u006C\u006F\u006F\u0072'](Math['\u0072\u0061\u006E\u0064\u006F\u006D']()*(166755^167615));await sleep(_0xa7e69c);}}if(finalNotifyList['\u006C\u0065\u006E\u0067\u0074\u0068']){var _0x55c=(157757^157753)+(783727^783723);const _0xa2f6e=finalNotifyList['\u006A\u006F\u0069\u006E']("\u000A\u000A");_0x55c=(970413^970408)+(793266^793274);await pushPlusSend(_0xa2f6e);}console['\u006C\u006F\u0067']("\u000A\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D");console['\u006C\u006F\u0067']("\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u540D\u521B\u4F18\u54C1\u7B7E\u5230\u4EFB\u52A1\u7ED3\u675F");console['\u006C\u006F\u0067']("\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u000A");}main()['\u0063\u0061\u0074\u0063\u0068'](e=>{log(`❌ 脚本异常：${e['\u006D\u0065\u0073\u0073\u0061\u0067\u0065']||e}`);});
+const axios = require("axios");
+const crypto = require("crypto");
+const fs = require("fs");
+const path = require("path");
+
+// =====================================================
+// 基础配置与工具
+// =====================================================
+const ckName = "YYB_GO_ID";
+const rawEnv = (process.env[ckName] || "").trim();
+const userList = rawEnv ? rawEnv.split("&").filter(Boolean) : [];
+const PUSH_PLUS_TOKEN = (process.env.PUSH_PLUS_TOKEN || "").trim();
+const finalNotifyLines = [];
+
+const parseAccount = (raw = "") => {
+    const parts = String(raw).split("#");
+    return {
+        ref: (parts[0] || "").trim(),
+        remark: (parts.slice(1).join("#") || "").trim()
+    };
+};
+
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+
+const short = (v, n = 300) => {
+    let t = "";
+    try {
+        t = typeof v === "string" ? v : JSON.stringify(v);
+    } catch (_) {
+        t = String(v);
+    }
+    return t.length > n ? t.slice(0, n) + "..." : t;
+};
+
+const md5Upper = str =>
+    crypto.createHash("md5")
+        .update(String(str), "utf8")
+        .digest("hex")
+        .toUpperCase();
+
+const aesEncryptHex = plain => {
+    const k = Buffer.from(AES_KEY_HEX, "hex");
+    const iv = Buffer.from(AES_IV_HEX, "hex");
+
+    const c = crypto.createCipheriv(
+        "aes-128-cbc",
+        k,
+        iv
+    );
+
+    return Buffer.concat([
+        c.update(Buffer.from(plain, "utf8")),
+        c.final()
+    ]).toString("hex");
+};
+
+const genLoginNonce = () => {
+    const c = "1234567890qwertyuiopasdfghjklzxc";
+    let r = "";
+
+    for (let i = 0; i < 32; i++) {
+        r += c[Math.floor(Math.random() * c.length)];
+    }
+
+    return r;
+};
+
+const genNonce = () => {
+    const c = "abcdefghijklmnopqrstuvwxyz0123456789";
+    let r = "";
+
+    for (let i = 0; i < 32; i++) {
+        r += c[Math.floor(Math.random() * c.length)];
+    }
+
+    return r;
+};
+
+const bizSignature = (time, nonce) =>
+    md5Upper(`${SIGN_PREFIX}${time}#${nonce}`);
+
+
+// =====================================================
+// PushPlus 推送
+// =====================================================
+async function pushMessage(title, content) {
+    if (!content) return;
+
+    // 优先使用 PushPlus
+    if (PUSH_PLUS_TOKEN) {
+        try {
+            const res = await axios.post(
+                "http://www.pushplus.plus/send",
+                {
+                    token: PUSH_PLUS_TOKEN,
+                    title: title,
+                    content: content.replace(/\n/g, "<br>"),
+                    template: "html"
+                },
+                {
+                    timeout: 15000
+                }
+            );
+
+            if (res.data?.code === 200) {
+                console.log(`✅ PushPlus 推送成功`);
+                return;
+            } else {
+                console.log(
+                    `❌ PushPlus 推送失败：${res.data?.msg || JSON.stringify(res.data)}`
+                );
+            }
+
+        } catch (e) {
+            console.log(
+                `❌ PushPlus 请求异常：${e.message || e}`
+            );
+        }
+
+    } else {
+        console.log(
+            `⚠️ 未配置 PUSH_PLUS_TOKEN，跳过推送`
+        );
+    }
+
+    // 兜底：输出到控制台
+    console.log(
+        `\n===== ${title} =====\n${content}`
+    );
+}
+
+
+// =====================================================
+// 名创业务配置
+// =====================================================
+const MINI_APP_ID = "wx2a212470bade49bf";
+
+const AES_KEY_HEX =
+    "0f9f8b1e791f754d2ded9dfb38a4b628";
+
+const AES_IV_HEX =
+    "31323334353637383930313233343535";
+
+const SIGN_PREFIX =
+    "#storeexpress1.0#ffe232&t%4df!67sx55eas#";
+
+const LOGIN_URL =
+    "https://cdn-storeexpress.miniso.com/wechat/login";
+
+const API_HOST =
+    "https://api-saas.miniso.com";
+
+const MULTI_API_HOST =
+    "https://api.multibrands.miniso.com";
+
+const CDN_HOST =
+    "https://cdn-storeexpress.miniso.com";
+
+const DEFAULT_STORE_ID = "Z6XV";
+
+const ACTIVITY_ID = 18;
+
+const TOKEN_CACHE_FILE =
+    path.join(__dirname, "YYB_GO_ID_token_cache.json");
+
+const YYB_GO_URL =
+    (process.env.YYB_GO_URL || "")
+        .trim()
+        .replace(/\/$/, "");
+
+const UA =
+    "Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 " +
+    "(KHTML, like Gecko) Version/4.0 " +
+    "Chrome/150.0.7871.189 Mobile Safari/537.36 " +
+    "MicroMessenger/8.0.76 " +
+    "MiniProgramEnv/android";
+
+const TASK_REFERER =
+    `https://servicewechat.com/${MINI_APP_ID}/1142/page-frame.html`;
+
+const SIGN_PAGE =
+    "%E6%BD%AE%E7%8E%A9%E7%AD%BE%E5%88%B0%E9%A1%B5%E9%9D%A2";
+
+const LANDING_PAGE =
+    "%E8%90%BD%E5%9C%B0%E9%A1%B5";
+
+
+// =====================================================
+// 缓存
+// =====================================================
+const readCache = () => {
+    try {
+        if (!fs.existsSync(TOKEN_CACHE_FILE)) {
+            return {};
+        }
+
+        return JSON.parse(
+            fs.readFileSync(TOKEN_CACHE_FILE, "utf8")
+        ) || {};
+
+    } catch (_) {
+        return {};
+    }
+};
+
+const writeCache = cache => {
+    try {
+        fs.writeFileSync(
+            TOKEN_CACHE_FILE,
+            JSON.stringify(cache, null, 2),
+            "utf8"
+        );
+
+    } catch (e) {
+        console.log(
+            `缓存写入失败：${e.message || e}`
+        );
+    }
+};
+
+
+// =====================================================
+// YYB-GO
+// =====================================================
+async function getYybGoCode(accountRef) {
+
+    if (!YYB_GO_URL) {
+        throw new Error(
+            "未配置环境变量 YYB_GO_URL"
+        );
+    }
+
+    for (let i = 1; i <= 2; i++) {
+
+        try {
+
+            const res = await axios.post(
+                `${YYB_GO_URL}/wxapp/getCode`,
+                {
+                    app_id: MINI_APP_ID,
+                    ref: accountRef
+                },
+                {
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    timeout: 30000,
+                    validateStatus: () => true
+                }
+            );
+
+            const body = res.data || {};
+
+            if (
+                body.code !== 0 &&
+                body.code !== "0" &&
+                body.code != null
+            ) {
+
+                if (Number(body.code) === 502) {
+                    throw new Error(
+                        `SKIP_ACCOUNT:${body.msg || "账号凭证失效"}`
+                    );
+                }
+
+                throw new Error(
+                    `YYB Go 获取code失败：${body.msg || short(body)}`
+                );
+            }
+
+            const data = body.data || {};
+            const result = data.result || {};
+
+            let code =
+                typeof result === "object" &&
+                result !== null
+                    ? result.code
+                    : result;
+
+            code = code || data.code;
+
+            if (!code || typeof code !== "string") {
+                throw new Error(
+                    `YYB Go 未返回小程序code：${short(body)}`
+                );
+            }
+
+            return code;
+
+        } catch (e) {
+
+            if (
+                e.code === "ECONNABORTED" ||
+                e.message.includes("timeout")
+            ) {
+
+                console.log(
+                    `⚠️ [YYB-GO] 第 ${i} 次请求超时，准备重试...`
+                );
+
+                if (i === 2) {
+                    throw new Error(
+                        `YYB-GO 取码超时 (请检查 YYB_GO_URL 和网络)`
+                    );
+                }
+
+                await sleep(2000);
+
+            } else if (
+                e.code === "ECONNREFUSED" ||
+                e.code === "ENOTFOUND"
+            ) {
+
+                throw new Error(
+                    `YYB-GO 连接失败 (请检查 YYB_GO_URL 是否正确及服务是否启动)`
+                );
+
+            } else {
+                throw e;
+            }
+        }
+    }
+}
+
+
+// =====================================================
+// Task
+// =====================================================
+class Task {
+
+    constructor(raw, index) {
+
+        this.index = index;
+
+        this.account = parseAccount(raw);
+
+        this.skey = "";
+        this.openid = "";
+        this.unionid = "";
+        this.uid = "";
+
+        this.storeId = DEFAULT_STORE_ID;
+
+        this.notifyLines = [
+            `账号[${this.index}]`
+        ];
+    }
+
+
+    log(text) {
+        console.log(
+            `账号[${this.index}]` +
+            `${this.account.remark ? `[${this.account.remark}]` : ""} ` +
+            text
+        );
+    }
+
+
+    async doLogin() {
+
+        const code =
+            await getYybGoCode(
+                this.account.ref
+            );
+
+        const time =
+            Date.now().toString();
+
+        const nonce =
+            genLoginNonce();
+
+        const signature =
+            bizSignature(time, nonce);
+
+        const encryptedBody =
+            aesEncryptHex(
+                JSON.stringify({
+                    code,
+                    appid: MINI_APP_ID,
+                    isreturnuserinfo: 1
+                })
+            );
+
+        const headers = {
+
+            "content-type":
+                "application/json",
+
+            version:
+                "storeexpress1.0",
+
+            "tenant-code":
+                "MINISO",
+
+            "can-flash-send":
+                "false",
+
+            "content-sceneid":
+                "1027",
+
+            "x-client-source":
+                "MINISO_WX_MINI",
+
+            "content-longitude":
+                "[object Undefined]",
+
+            "content-latitude":
+                "[object Undefined]",
+
+            "content-weappcode":
+                "",
+
+            "content-appcode":
+                "",
+
+            "content-uid":
+                "",
+
+            "content-skey":
+                "",
+
+            "content-openid":
+                "",
+
+            "content-unionid":
+                "",
+
+            nonce,
+            time,
+            signature,
+
+            charset:
+                "utf-8",
+
+            referer:
+                `https://servicewechat.com/${MINI_APP_ID}/1110/page-frame.html`,
+
+            "user-agent":
+                UA
+        };
+
+
+        for (let i = 1; i <= 2; i++) {
+
+            try {
+
+                const res =
+                    await axios.request({
+                        method: "POST",
+                        url: LOGIN_URL,
+                        data: encryptedBody,
+                        headers,
+                        timeout: 30000,
+                        validateStatus: () => true
+                    });
+
+                const body =
+                    res.data || {};
+
+                if (
+                    Number(body.code) === 200 &&
+                    body.data?.skey
+                ) {
+
+                    const d =
+                        body.data;
+
+                    this.skey =
+                        String(d.skey || "");
+
+                    this.openid =
+                        String(d.openid || "");
+
+                    this.unionid =
+                        String(d.unionid || "");
+
+                    this.uid =
+                        String(d.uid || "");
+
+                    this.storeId =
+                        DEFAULT_STORE_ID;
+
+                    return true;
+                }
+
+                const msg =
+                    body.message ||
+                    body.msg ||
+                    short(body);
+
+                if (
+                    Number(body.code) !== 200 &&
+                    /注册|未激活|会员|绑定|授权/.test(
+                        String(msg)
+                    )
+                ) {
+                    throw new Error(
+                        `NO_ACCOUNT:${msg}`
+                    );
+                }
+
+                throw new Error(
+                    `登录失败：${msg}`
+                );
+
+            } catch (e) {
+
+                if (
+                    e.code === "ECONNABORTED" ||
+                    e.message.includes("timeout")
+                ) {
+
+                    this.log(
+                        `⚠️ [名创登录] 第 ${i} 次请求超时，准备重试...`
+                    );
+
+                    if (i === 2) {
+                        throw new Error(
+                            `名创登录接口超时 (请检查服务器网络或代理设置)`
+                        );
+                    }
+
+                    await sleep(2000);
+
+                } else if (
+                    e.code === "ECONNREFUSED" ||
+                    e.code === "ENOTFOUND"
+                ) {
+
+                    throw new Error(
+                        `名创登录接口连接失败 (DNS解析或网络问题)`
+                    );
+
+                } else {
+                    throw e;
+                }
+            }
+        }
+    }
+
+
+    async refreshToken() {
+
+        this.log("🔄 刷新凭证...");
+
+        await this.doLogin();
+
+        const cache =
+            readCache();
+
+        cache[this.account.ref] = {
+
+            skey:
+                this.skey,
+
+            openid:
+                this.openid,
+
+            unionid:
+                this.unionid,
+
+            uid:
+                this.uid,
+
+            storeId:
+                this.storeId,
+
+            updatedAt:
+                new Date().toISOString()
+        };
+
+        writeCache(cache);
+
+        this.log("✅ 凭证已缓存");
+    }
+
+
+    async ensureLogin() {
+
+        const cached =
+            readCache()[this.account.ref] || {};
+
+        if (cached.skey) {
+
+            this.skey =
+                cached.skey;
+
+            this.openid =
+                cached.openid || "";
+
+            this.unionid =
+                cached.unionid || "";
+
+            this.uid =
+                cached.uid || "";
+
+            this.storeId =
+                cached.storeId ||
+                DEFAULT_STORE_ID;
+
+            this.log("📦 使用缓存CK");
+
+            return;
+        }
+
+        await this.refreshToken();
+    }
+
+
+    bizHeaders(ov = {}) {
+
+        return {
+
+            "content-type":
+                "application/json",
+
+            version:
+                "storeexpress1.0",
+
+            "tenant-code":
+                "MINISO",
+
+            tenant:
+                "MINISO",
+
+            "x-mi-version":
+                "5.1.99",
+
+            "x-client-source":
+                "MINISO_WX_MINI",
+
+            "content-weappcode":
+                "52",
+
+            "content-appcode":
+                "51",
+
+            "content-sceneid":
+                "1089",
+
+            "content-pagetype":
+                SIGN_PAGE,
+
+            "content-pagename":
+                SIGN_PAGE,
+
+            "x-mi-store-id":
+                this.storeId,
+
+            "content-skey":
+                this.skey,
+
+            "content-openid":
+                this.openid,
+
+            "content-unionid":
+                this.unionid,
+
+            "content-uid":
+                this.uid,
+
+            "content-latitude":
+                "[object Undefined]",
+
+            "content-longitude":
+                "[object Undefined]",
+
+            "x-mi-city":
+                "",
+
+            "can-flash-send":
+                "false",
+
+            charset:
+                "utf-8",
+
+            referer:
+                TASK_REFERER,
+
+            "user-agent":
+                UA,
+
+            accept:
+                "*/*",
+
+            ...ov
+        };
+    }
+
+
+    async bizRequest(
+        method,
+        url,
+        bodyObj,
+        extraHeaders = {}
+    ) {
+
+        const time =
+            Date.now().toString();
+
+        const nonce =
+            genNonce();
+
+        const opts = {
+
+            method,
+            url,
+
+            headers: {
+                ...this.bizHeaders(extraHeaders),
+                nonce,
+                time,
+                signature:
+                    bizSignature(time, nonce)
+            },
+
+            timeout: 20000,
+
+            validateStatus:
+                () => true
+        };
+
+        if (bodyObj !== undefined) {
+
+            opts.data =
+                typeof bodyObj === "string"
+                    ? bodyObj
+                    : JSON.stringify(bodyObj);
+        }
+
+        return (
+            await axios.request(opts)
+        ).data || {};
+    }
+
+
+    async bizGet(url, h) {
+        return this.bizRequest(
+            "GET",
+            url,
+            undefined,
+            h
+        );
+    }
+
+
+    async bizPostJson(url, body, h) {
+        return this.bizRequest(
+            "POST",
+            url,
+            body,
+            h
+        );
+    }
+
+
+    async bizRequestNoSign(
+        method,
+        url,
+        bodyObj,
+        extraHeaders = {}
+    ) {
+
+        const time =
+            Date.now().toString();
+
+        const nonce =
+            genNonce();
+
+        const opts = {
+
+            method,
+            url,
+
+            headers: {
+                ...this.bizHeaders(extraHeaders),
+                nonce,
+                time,
+                signature:
+                    bizSignature(time, nonce)
+            },
+
+            timeout: 20000,
+
+            validateStatus:
+                () => true
+        };
+
+        if (bodyObj !== undefined) {
+
+            opts.data =
+                typeof bodyObj === "string"
+                    ? bodyObj
+                    : JSON.stringify(bodyObj);
+        }
+
+        try {
+
+            const r =
+                await axios.request(opts);
+
+            const resp =
+                r.data || {};
+
+            if (
+                Number(resp.code) === 200 &&
+                resp.success !== false
+            ) {
+
+                return {
+                    success: true,
+                    data: resp
+                };
+            }
+
+            return {
+                success: false,
+                data: resp
+            };
+
+        } catch (e) {
+
+            return {
+                success: false,
+
+                data: {
+                    message:
+                        e.message ||
+                        String(e)
+                }
+            };
+        }
+    }
+
+
+    isAuthErr(resp) {
+
+        const code =
+            Number(resp?.code);
+
+        const msg =
+            String(
+                resp?.message ||
+                resp?.msg ||
+                ""
+            );
+
+        if (
+            [
+                401,
+                403,
+                4001,
+                4003,
+                10401
+            ].includes(code)
+        ) {
+            return true;
+        }
+
+        return /token|登录|未授权|失效|过期|未登录|鉴权|skey|会话/i
+            .test(msg);
+    }
+
+
+    async authRetry(
+        fn,
+        label = "请求"
+    ) {
+
+        let resp =
+            await fn();
+
+        if (this.isAuthErr(resp)) {
+
+            this.log(
+                `⚠️ ${label} CK失效，刷新...`
+            );
+
+            await this.refreshToken();
+
+            resp =
+                await fn();
+        }
+
+        return resp;
+    }
+
+
+    // =================================================
+    // 签到
+    // =================================================
+    async sign() {
+
+        const detail =
+            await this.authRetry(
+                () =>
+                    this.bizGet(
+                        `${API_HOST}/task-manage-platform/api/activity/signInTask/taskDetail?activityId=${ACTIVITY_ID}`
+                    ),
+                "获取签到"
+            );
+
+        if (
+            Number(detail.code) !== 200
+        ) {
+
+            this.log(
+                "❌ 获取签到失败"
+            );
+
+            return;
+        }
+
+        const task =
+            detail.data || {};
+
+        if (task.taskId == null) {
+            return;
+        }
+
+        if (
+            task.todaySignInFinishFlag === 1 ||
+            task.todaySignInFinishFlag === true
+        ) {
+
+            this.log(
+                "✅ 今日已签到"
+            );
+
+            return;
+        }
+
+        const res =
+            await this.authRetry(
+                () =>
+                    this.bizPostJson(
+                        `${API_HOST}/task-manage-platform/api/activity/signInTask/award/receive`,
+                        {
+                            activityId:
+                                String(ACTIVITY_ID),
+
+                            taskId:
+                                task.taskId
+                        }
+                    ),
+                "签到"
+            );
+
+        if (
+            Number(res.code) === 200
+        ) {
+
+            this.log(
+                "✅ 签到成功"
+            );
+
+            return;
+        }
+
+        if (
+            /已签|重复|已完成|已领取/.test(
+                String(
+                    res.message ||
+                    res.msg ||
+                    ""
+                )
+            )
+        ) {
+
+            this.log(
+                "✅ 今日已签到"
+            );
+
+            return;
+        }
+
+        this.log(
+            `❌ 签到失败：${res.message || res.msg || ""}`
+        );
+    }
+
+
+    async getMiniCoinBalance() {
+
+        const res =
+            await this.authRetry(
+                () =>
+                    this.bizGet(
+                        `${API_HOST}/task-manage-platform/api/virtualCoin/memberV2`
+                    ),
+                "查余额"
+            );
+
+        if (
+            Number(res.code) === 200 &&
+            res.data
+        ) {
+
+            return (
+                res.data.quantity ??
+                res.data.virtualCoin ??
+                res.data.coin ??
+                res.data.balance ??
+                0
+            );
+        }
+
+        return null;
+    }
+
+
+    // =================================================
+    // 浏览任务
+    // =================================================
+    async getPeriodTaskList() {
+
+        return this.bizGet(
+            `${API_HOST}/task-manage-platform/api/activity/periodTask/taskDetail?activityId=${ACTIVITY_ID}&unionId=${encodeURIComponent(this.unionid)}`
+        );
+    }
+
+
+    findTaskById(
+        resp,
+        taskId
+    ) {
+
+        if (
+            !resp ||
+            !Array.isArray(resp.data)
+        ) {
+            return null;
+        }
+
+        for (
+            const p of resp.data
+        ) {
+
+            const ts =
+                Array.isArray(p?.periodTasks)
+                    ? p.periodTasks
+                    : [];
+
+            const f =
+                ts.find(
+                    i =>
+                        Number(i?.taskId) ===
+                        Number(taskId)
+                );
+
+            if (f) {
+                return f;
+            }
+        }
+
+        return null;
+    }
+
+
+    async uvClickTask(task) {
+
+        return this.bizPostJson(
+            `${API_HOST}/task-manage-platform/api/activity/task/uvClick`,
+            {
+                activityId:
+                    String(ACTIVITY_ID),
+
+                taskId:
+                    Number(task.taskId),
+
+                taskType:
+                    Number(task.taskType)
+            }
+        );
+    }
+
+
+    async getBrowseTaskDetail(
+        taskId
+    ) {
+
+        return this.bizGet(
+            `${MULTI_API_HOST}/multi-configure-platform/api/activity/task/detail?activityId=${ACTIVITY_ID}&taskId=${taskId}`,
+            {
+                "content-pagetype":
+                    LANDING_PAGE,
+
+                "content-pagename":
+                    LANDING_PAGE
+            }
+        );
+    }
+
+
+    async finishBrowseTask(
+        taskId
+    ) {
+
+        return this.bizRequestNoSign(
+            "POST",
+
+            `${MULTI_API_HOST}/multi-configure-platform/api/activity/task/browse/finish`,
+
+            {
+                activityId:
+                    Number(ACTIVITY_ID),
+
+                taskId:
+                    Number(taskId)
+            },
+
+            {
+                "content-pagetype":
+                    LANDING_PAGE,
+
+                "content-pagename":
+                    LANDING_PAGE
+            }
+        );
+    }
+
+
+    async channelStatistics(
+        task,
+        browsePagePath
+    ) {
+
+        if (!browsePagePath) {
+            return;
+        }
+
+        const now =
+            new Date();
+
+        const pad =
+            n =>
+                String(n)
+                    .padStart(2, "0");
+
+        const ds =
+            `${now.getFullYear()}-${pad(now.getMonth() + 1)}-${pad(now.getDate())}`;
+
+        const ts =
+            `${pad(now.getHours())}:${pad(now.getMinutes())}:${pad(now.getSeconds())}`;
+
+        const urlObj =
+            new URL(
+                browsePagePath.startsWith("http")
+                    ? browsePagePath
+                    : `https://dummy.local${browsePagePath}`
+            );
+
+        const channelId =
+            urlObj.searchParams.get(
+                "channelId"
+            ) || "";
+
+        const configUrl =
+            browsePagePath.replace(
+                /^\//,
+                ""
+            ) +
+            `&activityId=${ACTIVITY_ID}&countDown=1&taskId=${Number(task.taskId)}`;
+
+        await this.bizRequestNoSign(
+            "POST",
+
+            `${CDN_HOST}/events/channelStatistics`,
+
+            {
+                uid:
+                    Number(this.uid) ||
+                    this.uid,
+
+                openId:
+                    this.openid,
+
+                unionId:
+                    this.unionid,
+
+                channelId:
+                    String(channelId),
+
+                intoTime:
+                    `${ds} ${ts}`,
+
+                sceneId:
+                    1089,
+
+                minisoGroup:
+                    "",
+
+                groupCode:
+                    "channelStatistics",
+
+                latitude:
+                    "",
+
+                longitude:
+                    "",
+
+                updateDate:
+                    `${ds} ${ts}`,
+
+                config:
+                    `nickName=微信用户,enterDate=${ds},enterTime=${ts},url=${configUrl}`
+            },
+
+            {
+                "content-pagetype":
+                    LANDING_PAGE,
+
+                "content-pagename":
+                    LANDING_PAGE
+            }
+
+        ).catch(() => {});
+    }
+
+
+    async receivePeriodTaskAward(
+        taskId
+    ) {
+
+        return this.bizPostJson(
+            `${API_HOST}/task-manage-platform/api/activity/periodTask/award/receive`,
+
+            {
+                activityId:
+                    String(ACTIVITY_ID),
+
+                taskId:
+                    Number(taskId)
+            }
+        );
+    }
+
+
+    async checkPeriodTaskFinished(
+        taskId
+    ) {
+
+        const resp =
+            await this.authRetry(
+                () =>
+                    this.getPeriodTaskList(),
+                "复查任务"
+            );
+
+        if (
+            Number(resp.code) !== 200
+        ) {
+
+            return {
+                finished: false,
+                task: null
+            };
+        }
+
+        const task =
+            this.findTaskById(
+                resp,
+                taskId
+            );
+
+        if (!task) {
+
+            return {
+                finished: false,
+                task: null
+            };
+        }
+
+        const ft =
+            Number(
+                task.periodFinishTimes ?? 0
+            );
+
+        const at =
+            Number(
+                task.periodAllowTimes ?? 1
+            );
+
+        return {
+            finished:
+                ft > 0 &&
+                (
+                    at <= 0 ||
+                    ft >= Math.min(at, 1)
+                ),
+
+            task
+        };
+    }
+
+
+    async doOneBrowseTask(
+        task
+    ) {
+
+        const taskId =
+            Number(task.taskId);
+
+        const taskName =
+            task.taskName ||
+            task.taskTitle ||
+            task.name ||
+            `浏览任务${taskId}`;
+
+        const defaultAward =
+            task.awardName ||
+            "奖励";
+
+        const allowTimes =
+            Number(
+                task.periodAllowTimes ?? 1
+            );
+
+        const finishTimes =
+            Number(
+                task.periodFinishTimes ?? 0
+            );
+
+        const fmtLine =
+            (name, award) =>
+                `"${name}"已完成+${award}`;
+
+
+        if (
+            allowTimes > 0 &&
+            finishTimes >= allowTimes
+        ) {
+
+            this.log(
+                `⏭️ ${taskName} 已完成`
+            );
+
+            this.notifyLines.push(
+                fmtLine(
+                    taskName,
+                    task.awardName ||
+                    defaultAward
+                )
+            );
+
+            return;
+        }
+
+
+        this.log(
+            `▶️ ${taskName} 开始`
+        );
+
+
+        const uv =
+            await this.authRetry(
+                () =>
+                    this.uvClickTask(task),
+                `点击[${taskName}]`
+            );
+
+        if (
+            Number(uv.code) !== 200 ||
+            uv.success === false
+        ) {
+
+            this.log(
+                `❌ ${taskName} 点击失败`
+            );
+
+            return;
+        }
+
+
+        await sleep(600);
+
+
+        const det =
+            await this.authRetry(
+                () =>
+                    this.getBrowseTaskDetail(
+                        taskId
+                    ),
+                `详情[${taskName}]`
+            );
+
+        if (
+            Number(det.code) !== 200 ||
+            !det.data
+        ) {
+
+            this.log(
+                `❌ ${taskName} 详情失败`
+            );
+
+            return;
+        }
+
+
+        const dd =
+            det.data || {};
+
+        const secs =
+            Math.max(
+                1,
+                Number(
+                    dd.browseTime ??
+                    task.browseSeconds ??
+                    20
+                ) || 20
+            );
+
+        const pagePath =
+            dd.browsePagePath ||
+            task.pageJumpUrl ||
+            "";
+
+
+        await this.channelStatistics(
+            task,
+            pagePath
+        );
+
+
+        this.log(
+            `⏳ ${taskName} 等待 ${secs + 1}s`
+        );
+
+
+        for (
+            let r = secs + 1;
+            r > 0;
+            r--
+        ) {
+
+            if (
+                r === secs + 1 ||
+                r === 10 ||
+                r === 5 ||
+                r === 1
+            ) {
+
+                this.log(
+                    `⏱️ 剩余 ${r}s`
+                );
+            }
+
+            await sleep(1000);
+        }
+
+
+        const fin =
+            await this.finishBrowseTask(
+                taskId
+            );
+
+        if (!fin.success) {
+
+            this.log(
+                `❌ ${taskName} 上报失败`
+            );
+
+            return;
+        }
+
+
+        await sleep(800);
+        await sleep(1000);
+
+
+        let chk =
+            await this.checkPeriodTaskFinished(
+                taskId
+            );
+
+
+        if (!chk.finished) {
+
+            await sleep(2000);
+
+            chk =
+                await this.checkPeriodTaskFinished(
+                    taskId
+                );
+        }
+
+
+        if (!chk.finished) {
+
+            this.log(
+                `❌ ${taskName} 未完成`
+            );
+
+            return;
+        }
+
+
+        const rt =
+            chk.task || task;
+
+
+        const aw =
+            await this.authRetry(
+                () =>
+                    this.receivePeriodTaskAward(
+                        taskId
+                    ),
+                `领奖[${taskName}]`
+            );
+
+
+        if (
+            Number(aw.code) === 200 &&
+            aw.success !== false
+        ) {
+
+            const an =
+                aw?.data?.awardName ||
+                rt?.awardName ||
+                defaultAward;
+
+            this.log(
+                `🎉 ${fmtLine(taskName, an)}`
+            );
+
+            this.notifyLines.push(
+                fmtLine(
+                    taskName,
+                    an
+                )
+            );
+
+            return;
+        }
+
+
+        if (
+            /已领取|重复领取|领取过/.test(
+                String(
+                    aw.message ||
+                    aw.msg ||
+                    ""
+                )
+            )
+        ) {
+
+            const an =
+                rt?.awardName ||
+                defaultAward;
+
+            this.log(
+                `ℹ️ ${taskName} 已领取`
+            );
+
+            this.notifyLines.push(
+                fmtLine(
+                    taskName,
+                    an
+                )
+            );
+
+            return;
+        }
+
+
+        this.log(
+            `❌ ${taskName} 领奖失败：${aw.message || aw.msg || ""}`
+        );
+    }
+
+
+    // =================================================
+    // 自动识别浏览任务
+    // =================================================
+    isBrowseTask(task) {
+
+        if (
+            !task ||
+            typeof task !== "object"
+        ) {
+            return false;
+        }
+
+        const taskType =
+            Number(task.taskType);
+
+        /*
+         * 名创优品任务名称字段可能存在变化，
+         * 所以这里不只读取 taskName。
+         */
+        const taskName =
+            String(
+                task.taskName ??
+                task.taskTitle ??
+                task.name ??
+                task.title ??
+                task.taskDesc ??
+                task.description ??
+                ""
+            ).trim();
+
+
+        /*
+         * 核心判断：
+         *
+         * 1、任务名称/描述带“浏览”
+         *    → 自动认定为浏览任务
+         *
+         * 2、旧接口 taskType=5
+         *    → 继续兼容
+         */
+        if (
+            /浏览/.test(taskName)
+        ) {
+            return true;
+        }
+
+
+        if (
+            taskType === 5
+        ) {
+            return true;
+        }
+
+
+        /*
+         * 最后再做一次兜底。
+         * 防止“浏览”出现在其他任务名称字段中。
+         */
+        const raw =
+            [
+                task.taskName,
+                task.taskTitle,
+                task.name,
+                task.title,
+                task.taskDesc,
+                task.description,
+                task.taskTypeName,
+                task.typeName
+            ]
+                .filter(v => v != null)
+                .map(String)
+                .join(" ");
+
+
+        return /浏览/.test(raw);
+    }
+
+
+    async runBrowseTasks() {
+
+        this.log(
+            "🔎 自动检查浏览任务..."
+        );
+
+
+        /*
+         * 第一次实时获取当前任务列表。
+         */
+        const resp =
+            await this.authRetry(
+                () =>
+                    this.getPeriodTaskList(),
+                "任务列表"
+            );
+
+
+        if (
+            Number(resp.code) !== 200 ||
+            !Array.isArray(resp.data)
+        ) {
+
+            this.log(
+                "❌ 获取任务列表失败"
+            );
+
+            return;
+        }
+
+
+        /*
+         * 把所有分组里面的 periodTasks
+         * 全部展开。
+         */
+        const allTasks =
+            resp.data.flatMap(
+                p =>
+                    Array.isArray(p?.periodTasks)
+                        ? p.periodTasks
+                        : []
+            );
+
+
+        /*
+         * 自动筛选浏览任务。
+         *
+         * 不再写死：
+         *
+         * .filter(t => Number(t.taskType) === 5)
+         *
+         * 而是通过 isBrowseTask()
+         * 自动判断。
+         */
+        const tasks =
+            allTasks.filter(
+                t => this.isBrowseTask(t)
+            );
+
+
+        if (!tasks.length) {
+
+            this.log(
+                "ℹ️ 当前没有检测到浏览任务"
+            );
+
+            return;
+        }
+
+
+        this.log(
+            `📋 自动识别到 ${tasks.length} 个浏览任务`
+        );
+
+
+        /*
+         * 防止接口返回重复任务。
+         */
+        const uniqueTasks = [];
+
+        const seen = new Set();
+
+
+        for (
+            const task of tasks
+        ) {
+
+            const taskId =
+                Number(task?.taskId);
+
+
+            const key =
+                Number.isFinite(taskId) &&
+                taskId > 0
+
+                    ? `id:${taskId}`
+
+                    : `name:${String(
+                        task?.taskName ||
+                        task?.taskTitle ||
+                        task?.name ||
+                        ""
+                    )}`;
+
+
+            if (
+                seen.has(key)
+            ) {
+                continue;
+            }
+
+
+            seen.add(key);
+
+            uniqueTasks.push(task);
+        }
+
+
+        /*
+         * 执行当前检测到的浏览任务。
+         */
+        for (
+            let i = 0;
+            i < uniqueTasks.length;
+            i++
+        ) {
+
+            const task =
+                uniqueTasks[i];
+
+
+            try {
+
+                await this.doOneBrowseTask(
+                    task
+                );
+
+            } catch (e) {
+
+                this.log(
+                    `❌ [${task?.taskName || task?.taskTitle || "浏览任务"}] 异常：${e.message || e}`
+                );
+            }
+
+
+            if (
+                i < uniqueTasks.length - 1
+            ) {
+
+                await sleep(1500);
+            }
+        }
+
+
+        /*
+         * =================================================
+         * 重要：
+         * 
+         * 名创优品可能在完成任务后：
+         *
+         * ① 增加浏览任务
+         * ② 减少浏览任务
+         * ③ 改变任务完成状态
+         *
+         * 所以这里重新请求任务列表。
+         *
+         * 最多额外检查两轮。
+         * =================================================
+         */
+        for (
+            let round = 1;
+            round <= 2;
+            round++
+        ) {
+
+            await sleep(1200);
+
+
+            const latest =
+                await this.authRetry(
+                    () =>
+                        this.getPeriodTaskList(),
+                    `第${round}次重新检查任务`
+                );
+
+
+            if (
+                Number(latest.code) !== 200 ||
+                !Array.isArray(latest.data)
+            ) {
+
+                this.log(
+                    `⚠️ 第${round}次重新检查任务失败`
+                );
+
+                break;
+            }
+
+
+            const latestTasks =
+                latest.data
+                    .flatMap(
+                        p =>
+                            Array.isArray(p?.periodTasks)
+                                ? p.periodTasks
+                                : []
+                    )
+                    .filter(
+                        t =>
+                            this.isBrowseTask(t)
+                    );
+
+
+            /*
+             * 只处理之前没有执行过的任务。
+             */
+            const newTasks =
+                latestTasks.filter(
+                    t => {
+
+                        const taskId =
+                            Number(t?.taskId);
+
+
+                        const key =
+                            Number.isFinite(taskId) &&
+                            taskId > 0
+
+                                ? `id:${taskId}`
+
+                                : `name:${String(
+                                    t?.taskName ||
+                                    t?.taskTitle ||
+                                    t?.name ||
+                                    ""
+                                )}`;
+
+
+                        if (
+                            seen.has(key)
+                        ) {
+                            return false;
+                        }
+
+
+                        seen.add(key);
+
+                        return true;
+                    }
+                );
+
+
+            if (
+                !newTasks.length
+            ) {
+
+                this.log(
+                    "✅ 重新检查：没有新增浏览任务"
+                );
+
+                break;
+            }
+
+
+            this.log(
+                `🔄 重新检查发现 ${newTasks.length} 个新增浏览任务`
+            );
+
+
+            for (
+                let i = 0;
+                i < newTasks.length;
+                i++
+            ) {
+
+                try {
+
+                    await this.doOneBrowseTask(
+                        newTasks[i]
+                    );
+
+                } catch (e) {
+
+                    this.log(
+                        `❌ [${newTasks[i]?.taskName || newTasks[i]?.taskTitle || "浏览任务"}] 异常：${e.message || e}`
+                    );
+                }
+
+
+                if (
+                    i < newTasks.length - 1
+                ) {
+
+                    await sleep(1500);
+                }
+            }
+        }
+    }
+
+
+    async pushTaskSummary() {
+
+        try {
+
+            const b =
+                await this.getMiniCoinBalance();
+
+            if (
+                b != null &&
+                b !== ""
+            ) {
+
+                this.notifyLines.push(
+                    `当前mini币:${b}mini币`
+                );
+            }
+
+        } catch (_) {}
+
+
+        if (
+            this.notifyLines.length > 1
+        ) {
+
+            finalNotifyLines.push(
+                this.notifyLines.join("\n")
+            );
+        }
+    }
+
+
+    async run() {
+
+        if (
+            !this.account.ref
+        ) {
+
+            this.log(
+                "❌ ref为空"
+            );
+
+            return;
+        }
+
+
+        try {
+
+            await this.ensureLogin();
+
+            await this.sign();
+
+            await this.runBrowseTasks();
+
+            await this.pushTaskSummary();
+
+        } catch (e) {
+
+            const msg =
+                String(
+                    e.message || e
+                );
+
+
+            this.log(
+                `❌ 捕获到错误: ${msg}`
+            );
+
+
+            if (
+                msg.startsWith(
+                    "NO_ACCOUNT"
+                )
+            ) {
+
+                finalNotifyLines.push(
+                    `账号[${this.index}]\n账号未注册/激活`
+                );
+
+                return;
+            }
+
+
+            if (
+                msg.startsWith(
+                    "SKIP_ACCOUNT"
+                )
+            ) {
+
+                finalNotifyLines.push(
+                    `账号[${this.index}]\n${msg.replace(/^SKIP_ACCOUNT:/, "")}`
+                );
+
+                return;
+            }
+
+
+            finalNotifyLines.push(
+                `账号[${this.index}]\n执行失败：${msg}`
+            );
+        }
+    }
+}
+
+
+// =====================================================
+// START
+// =====================================================
+!(async () => {
+
+    if (
+        !userList.length
+    ) {
+
+        console.log(
+            `❌ 未找到环境变量 ${ckName}`
+        );
+
+        return;
+    }
+
+
+    if (
+        !YYB_GO_URL
+    ) {
+
+        console.log(
+            "❌ 未配置 YYB_GO_URL"
+        );
+
+        return;
+    }
+
+
+    console.log(
+        `✅ YYB-GO：${YYB_GO_URL} | 👤 ${userList.length} 个账号`
+    );
+
+
+    for (
+        let i = 0;
+        i < userList.length;
+        i++
+    ) {
+
+        await new Task(
+            userList[i],
+            i + 1
+        ).run();
+
+
+        if (
+            i < userList.length - 1
+        ) {
+
+            await sleep(
+                1500 +
+                Math.floor(
+                    Math.random() * 1500
+                )
+            );
+        }
+    }
+
+
+    // =================================================
+    // 统一推送一次
+    // =================================================
+    if (
+        finalNotifyLines.length
+    ) {
+
+        await pushMessage(
+            "名创优品任务通知",
+            finalNotifyLines.join("\n\n")
+        );
+
+    } else {
+
+        console.log(
+            "ℹ️ 本次运行无需要推送的任务结果"
+        );
+    }
+
+})().catch(
+    e =>
+        console.log(
+            `❌ 脚本异常：${e.message || e}`
+        )
+);
 
 /**
  * =====================================================
