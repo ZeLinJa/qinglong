@@ -2,11 +2,12 @@
 # -*- coding: utf-8 -*-
 
 """
-QQ音乐签到 code 版 (缓存优先 + YYB-GO 自动刷新)
+QQ音乐签到 CK 环境变量版（兼容 YYB-GO）
 
 环境变量：
-  YYB_GO_URL        必填，YYB Go 地址（如 http://115.190.216.15:8000）
-  YYB_GO_ID         必填，YYB Go 账号引用（ID/UIN/openid），多账号用 & 或换行分隔（可加 #备注）
+  QQ_ENABLE_CK      可选，支持QQ登录的QQ音乐APP Cookie，格式 uin=o123; qm_keyst=xxx；多账号每行一个
+  YYB_GO_URL        未配置 QQ_ENABLE_CK 时必填，YYB Go 地址（如 http://127.0.0.1:8000）
+  YYB_GO_ID         未配置 QQ_ENABLE_CK 时必填，YYB Go 账号引用，多账号用 & 或换行分隔（可加 #备注）
   PUSHPLUS_TOKEN    PushPlus token，可选
   PROXY_API         品赞代理提取 API，可选
   PROXY_TYPE        http / socks5，默认 http
@@ -43,6 +44,8 @@ CACHE_FILE = Path(__file__).parent / "yyb_go_token_cache.json"
 
 YYB_GO_URL = os.getenv("YYB_GO_URL", "").strip().rstrip("/")
 YYB_GO_ID_RAW = os.getenv("YYB_GO_ID", "")
+CK_RAW = os.getenv("QQ_ENABLE_CK", "").strip()
+CK_AUTH_BY_REF: Dict[str, Dict[str, str]] = {}
 PUSHPLUS_TOKEN = os.getenv("PUSHPLUS_TOKEN", "")
 PROXY_API = os.getenv("PROXY_API", "")
 PROXY_TYPE = os.getenv("PROXY_TYPE", "http").lower()
@@ -167,9 +170,38 @@ def direct_session() -> requests.Session:
 
 
 # ==================== 账号加载 ====================
+def parse_ck_cookie(cookie: str) -> Dict[str, str] | None:
+    """解析 QQ 音乐 Cookie；支持 qm_keyst 或 authst 字段。"""
+    uin_match = re.search(r'(?:^|[;\s])uin\s*=\s*o?(\d+)', cookie, re.I)
+    key_match = re.search(r'(?:^|[;\s])(?:qm_keyst|authst)\s*=\s*([^;\s]+)', cookie, re.I)
+    if not uin_match or not key_match:
+        return None
+    return {"uin": uin_match.group(1), "authst": key_match.group(1).strip()} if key_match.group(1).strip() else None
+
+
 def load_account_targets() -> List[AccountTarget]:
+    # 设置 CK 后优先使用 CK，完全跳过 YYB-GO 和本地 token 缓存。
+    if CK_RAW:
+        CK_AUTH_BY_REF.clear()
+        accounts: List[AccountTarget] = []
+        entries = [line.strip() for line in CK_RAW.splitlines() if line.strip()]
+        # 兼容单个 Cookie 以及一行一个账号；每个账号可在 # 后添加备注。
+        for idx, entry in enumerate(entries, 1):
+            parts = entry.split("#", 1)
+            cookie = parts[0].strip()
+            remark = parts[1].strip() if len(parts) > 1 else ""
+            auth = parse_ck_cookie(cookie)
+            if not auth:
+                raise RuntimeError(f"❌ CK 第 {idx} 个账号格式错误，需包含 uin 和 qm_keyst（或 authst）")
+            ref = str(idx)
+            CK_AUTH_BY_REF[ref] = auth
+            accounts.append(AccountTarget(server="CK环境变量", ref=ref, remark=remark, index=idx))
+        if not accounts:
+            raise RuntimeError("❌ 环境变量 QQ_ENABLE_CK 为空或格式错误")
+        return accounts
+
     if not YYB_GO_URL:
-        raise RuntimeError("❌ 未配置环境变量 YYB_GO_URL")
+        raise RuntimeError("❌ 未配置环境变量 QQ_ENABLE_CK；使用 YYB-GO 模式时需配置 YYB_GO_URL")
     raw_ids = YYB_GO_ID_RAW.strip()
     if not raw_ids:
         raise RuntimeError("❌ 未配置环境变量 YYB_GO_ID")
@@ -372,6 +404,15 @@ def ensure_auth(account: AccountTarget, proxies: Dict[str, str] | None) -> Dict[
     返回有效的 auth dict 或 None
     """
     ref = account.ref
+
+    # CK 环境变量模式：直接使用环境变量中的 Cookie，不请求 YYB-GO，也不读写 token 缓存。
+    if CK_RAW:
+        auth = CK_AUTH_BY_REF.get(ref)
+        if auth:
+            print(f"🔐 [CK] 使用环境变量 QQ_ENABLE_CK（uin={mask(auth['uin'])}，密钥已隐藏）")
+            return auth
+        print("❌ [CK] 未找到当前账号的 Cookie")
+        return None
 
     # Step 1: 尝试读取缓存
     cached_auth = get_cached_auth(ref)
@@ -1263,10 +1304,10 @@ def run_account(index: int, total: int, account: AccountTarget) -> Dict[str, Any
 def log_title() -> None:
     print()
     print("╔" + "═" * 54 + "╗")
-    print("║ ♻️ QQ音乐签到 (缓存优先 + YYB-GO 自动刷新)       ║")
+    print("║ ♻️ QQ音乐签到 (CK 环境变量 / YYB-GO)             ║")
     print(f"║ 🕒 启动时间: {now_text():<36}║")
     print(f"║ 🔢 账号数量: {len(CURRENT_ACCOUNTS):<38}║")
-    print(f"║ 🌍 YYB-GO: {(YYB_GO_URL or '未配置'):<40}║")
+    print(f"║ 🔐 登录模式: {('环境变量 QQ_ENABLE_CK' if CK_RAW else (YYB_GO_URL or 'YYB-GO 未配置')):<36}║")
     print(f"║ 💾 缓存文件: {str(CACHE_FILE.name):<34}║")
     print("╚" + "═" * 54 + "╝")
 
